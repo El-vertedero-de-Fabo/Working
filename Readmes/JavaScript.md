@@ -1,6 +1,6 @@
 <h1 align="center"> 🕹️JavaScript  </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/finu0kgoalrvgYEPn7/giphy.gif"/>
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif"/>
  </div>
 
 # Indice
