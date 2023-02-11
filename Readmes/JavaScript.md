@@ -37,9 +37,11 @@
 
 ### Variables
 
-```js
-var 
-```
+- **var** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
+- **let** Tiene todas las propiedades del const pero se puede reasignar datos.
+- **const** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
+- **bloque** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
+
 
 ### El lenguaje es Case-Sensitive
 ### Operaciones Aritmeticas
@@ -47,4 +49,5 @@ var
 var suma = 5 + 5;
 var resta = 5 - 10;
 var producto = 5 * 5;
+var cociente = 20 / 2;
 ```
