@@ -55,3 +55,10 @@
 - **producto** = 5 * 5;
 - **cociente** = 20 / 2;
 - **decimal** = 23.4
+- **resto** = 15 % 5
+
+### Modificar variables
+- **incremento++;**
+- **resto--;**
+- **incrementoCustom+=5;**
+- **restoCustom-=7;**
