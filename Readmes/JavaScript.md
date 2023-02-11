@@ -4,7 +4,11 @@
  </div>
 
 # Indice
-- [Conceptos Basicos](#)
+- [Conceptos Basicos](#conceptos-basicos)
+    - [Comentarios](#comentarios)
+    - [Tipo de Datos](#tipos-de-datos)
+    - [Variables](#variables)
+    - [Operaciones Aritmeticas](#operaciones-aritmeticas)
 
 # Conceptos Basicos
 
@@ -45,9 +49,9 @@
 
 ### El lenguaje es Case-Sensitive
 ### Operaciones Aritmeticas
-```js
-var suma = 5 + 5;
-var resta = 5 - 10;
-var producto = 5 * 5;
-var cociente = 20 / 2;
-```
+
+- **suma** = 5 + 5;
+- **resta** = 5 - 10;
+- **producto** = 5 * 5;
+- **cociente** = 20 / 2;
+- **decimal** = 23.4
