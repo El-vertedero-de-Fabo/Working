@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif"/>
  </div>
 
-# Indice
+# 👉 Indice
 - [Conceptos Basicos](#conceptos-basicos)
     - [Comentarios](#comentarios)
     - [Tipo de Datos](#tipos-de-datos)
@@ -12,7 +12,7 @@
 
 # Conceptos Basicos
 
-### Comentarios
+### 💭Comentarios
 ```js
 // Comentario de una linea
 /*
@@ -21,7 +21,7 @@
     Lineas
 */
 ```
-### Tipos de Datos
+### 📈 Tipos de Datos
 - **undefined :** Cuando no existe un valor asignado
 - **null :** Para inicializar los objetos
 - **boolean :** True | false
@@ -60,5 +60,24 @@
 ### Modificar variables
 - **incremento++;**
 - **resto--;**
-- **incrementoCustom+=5;**
-- **restoCustom-=7;**
+- **incrementoCustom += 5;**
+- **restoCustom -= 7;**
+- **producto \*= 2**
+- **cociente /= 3**
+
+### Strings
+
+- **'nombre'**
+- **"nombre"**
+- **"cadena \\"con comillas\\""**
+- **'cadena "con comillas" '**
+
+### Secuencia de Escape
+- `\'` Comilla simple
+- `\"` Comilla doble
+- `\\` Barra invertida
+- `\n` Salto de linea
+- `\r` 
+- `\t` Tabulación
+- `\b` 
+- `\f` 
