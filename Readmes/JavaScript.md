@@ -41,14 +41,12 @@
 
 ### Variables
 
-- **var** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
-- **let** Tiene todas las propiedades del const pero se puede reasignar datos.
-- **const** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
-- **bloque** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
+- **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
+- **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
+- **`const`** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
+- **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-
-### El lenguaje es Case-Sensitive
-### Operaciones Aritmeticas
+### 🧮 Operaciones Aritmeticas
 
 - **suma** = 5 + 5;
 - **resta** = 5 - 10;
@@ -56,8 +54,6 @@
 - **cociente** = 20 / 2;
 - **decimal** = 23.4
 - **resto** = 15 % 5
-
-### Modificar variables
 - **incremento++;**
 - **resto--;**
 - **incrementoCustom += 5;**
