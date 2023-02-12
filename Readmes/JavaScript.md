@@ -58,8 +58,15 @@
 - **`const`** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-## 🧮 Operaciones Aritmeticas
+## 🧮 Operaciones
 
+<table>
+<tr>
+<td> Aritmeticas </td> <td> Strings </td>
+</tr>
+<tr>
+<td>
+ 
 - **suma:** 5 + 5;
 - **resta:** 5 - 10;
 - **producto:** 5 * 5;
@@ -78,9 +85,9 @@
 - **desigualdad Estricta:** 5 !== '5' //true
 - **operadores:** <, > , <=, >=, &&, ||, !true //false
 
-
-## ⛓️ Strings
-
+</td>
+<td>
+ 
 - **'nombre'**
 - **"nombre"**
 - **"cadena \\"con comillas\\""**
@@ -89,9 +96,6 @@
 - **"cadena" + variable**
 - **cadena.length**
 - **cadena[indice]**
-- Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"` pero podemos modificar la cadena completa (`cadena = otraCadena`)
-
-## 💻 Secuencia de Escape
 - `\'` Comilla simple
 - `\"` Comilla doble
 - `\\` Barra invertida
@@ -100,6 +104,18 @@
 - `\t` Tabulación
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
+
+
+
+
+
+</td>
+</tr>
+ 
+</table>
+Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
+
+
 
 ## 📚 Arreglos
 
@@ -187,17 +203,17 @@ console.log(respuesta)
 
 ## ☕ Objetos
 
-#### **Objeto de ejemplo**
-```js
-var perro = {
-    'nombre': 'Pepe',
-    'edad': 3,
-    'la raza es': 'Pitbull'
-};
-```
-
+- **Objeto de ejemplo**
+    ```js
+    var perro = {
+        'nombre': 'Pepe',
+        'edad': 3,
+        'la raza es': 'Pitbull'
+    };
+    ```
 - **acceso:** console.log(perro.nombre)
 - **acceso Corchetes:** console.log(perro['la raza es'])
 - **agregar:** perro.color = 'negro'
 - **eliminar:** delete perro.nombre
 - **Se podria utilizar para remplazar un case/else if**
+- **verificar propiedad:** perro.hasOwnPropery('edad')

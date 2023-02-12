@@ -4,4 +4,4 @@ var perro = {
     'la raza es': 'Pitbull'
 };
 perro.color = 'negro'
-console.log(perro)
+console.log(perro.hasOwnProperty(nombre))
