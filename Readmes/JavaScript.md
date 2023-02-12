@@ -6,16 +6,19 @@
 ---
 
 # 👉 Indice
-- [Conceptos Basicos](#conceptos-basicos)
-    - [Comentarios](#comentarios)
-    - [Tipo de Datos](#tipos-de-datos)
-    - [Variables](#variables)
-    - [Operaciones Aritmeticas](#🧮-operaciones-aritmeticas)
-    - [Strings](#strings)
-    - [Secuencia de Escape](#secuencia-de-escape)
-    - [Arrays](#arreglos)
+- [⌨️ Conceptos Basicos](#⌨️-conceptos-basicos)
+    - [💭 Comentarios](#💭comentarios)
+    - [📈 Tipo de Datos](#📈-tipos-de-datos)
+    - [🖱️ Variables](#🖱️-variables)
+    - [🧮 Operaciones Aritmeticas](#🧮-operaciones-aritmeticas)
+    - [⛓️ Strings](#⛓️-strings)
+    - [💻 Secuencia de Escape](#💻-secuencia-de-escape)
+    - [📚 Arrays](#📚-arreglos)
     - [Funciones](#funciones)
-    - [Condicionales]()
+    - [Condicionales](#condicionales)
+    - [Switch Normal](#switch-normal)
+    - [Switch Multiples Casos](#switch-multiples-casos)
+    - [☕ Objetos](#☕-objetos)
 
 ---
 
@@ -121,7 +124,7 @@
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
 
 
-### Switch Normal
+## Switch Normal
 ```js
 var valor = 66;
 var respuesta;
@@ -143,7 +146,7 @@ switch (valor){
 console.log(respuesta)
 ```
 
-### Switch Multiples Casos
+## Switch Multiples Casos
 
 ```js
 var valor = 66;
@@ -168,4 +171,5 @@ switch (valor){
 console.log(respuesta)
 ```
 
-### ☕ Objeto
+### ☕ Objetos
+
