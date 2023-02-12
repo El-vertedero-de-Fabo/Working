@@ -3,12 +3,19 @@
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif"/>
  </div>
 
+---
+
 # 👉 Indice
 - [Conceptos Basicos](#conceptos-basicos)
     - [Comentarios](#comentarios)
     - [Tipo de Datos](#tipos-de-datos)
     - [Variables](#variables)
-    - [Operaciones Aritmeticas](#operaciones-aritmeticas)
+    - [Operaciones Aritmeticas](#🧮-operaciones-aritmeticas)
+    - [Strings](#strings)
+    - [Secuencia de Escape](#secuencia-de-escape)
+    - [Arrays](#arreglos)
+
+---
 
 # Conceptos Basicos
 
@@ -26,7 +33,8 @@
 - **null :** Para inicializar los objetos
 - **boolean :** True | false
 - **string :** "Un string de toda la vida"
-- **symbol :** Un símbolo es único. Esto quiere decir que, cada vez que creamos uno nuevo, es completamente diferente y no se compara con ningún otro símbolo, incluso si se crean a partir del mismo valor.
+- **symbol :** Un símbolo es único. Esto quiere decir que, cada vez que creamos uno nuevo, es completamente diferente y no se compara con ningún otro símbolo, incluso si se crean a partir del mismo valor. 
+    <br >
     ```js
     const mySymbol = Symbol()
     const mySymbolWithDescription = Symbol('descripción del símbolo')
@@ -67,6 +75,11 @@
 - **"nombre"**
 - **"cadena \\"con comillas\\""**
 - **'cadena "con comillas" '**
+- **"cadena" + "otraCadena"**
+- **"cadena" + variable**
+- **cadena.length**
+- **cadena[indice]**
+- Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"` pero podemos modificar la cadena completa (`cadena = otraCadena`)
 
 ### Secuencia de Escape
 - `\'` Comilla simple
@@ -77,3 +90,8 @@
 - `\t` Tabulación
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
+
+### Arreglos
+
+- **array** = ['Fabo', 'Crack']
+- **array**[0] //Fabo :0
