@@ -71,7 +71,9 @@
 - **cociente /= 3**
 - **igualdad:** 5 == '5' //true
 - **igualdad Estricta:** 5 === '5' //false
-- **desigualdad:** 9 != 6
+- **desigualdad:** 5 != '5' //false
+- **desigualdad Estricta:** 5 !== '5' //true
+- **operadores:** <, > , <=, >=
 
 
 ### ⛓️ Strings
