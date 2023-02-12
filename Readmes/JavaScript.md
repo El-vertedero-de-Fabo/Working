@@ -10,9 +10,7 @@
     - [💭 Comentarios](#💭comentarios)
     - [📈 Tipo de Datos](#📈-tipos-de-datos)
     - [🖱️ Variables](#🖱️-variables)
-    - [🧮 Operaciones Aritmeticas](#🧮-operaciones-aritmeticas)
-    - [⛓️ Strings](#⛓️-strings)
-    - [💻 Secuencia de Escape](#💻-secuencia-de-escape)
+    - [🧮 Operaciones](#operaciones)
     - [📚 Arrays](#📚-arreglos)
     - [Funciones](#funciones)
     - [Condicionales](#condicionales)
@@ -58,11 +56,11 @@
 - **`const`** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-## 🧮 Operaciones
+##  Operaciones
 
 <table>
 <tr>
-<td> Aritmeticas </td> <td> Strings </td>
+<td> 🧮 Aritmeticas </td> <td> ⛓️ Strings </td>
 </tr>
 <tr>
 <td>
