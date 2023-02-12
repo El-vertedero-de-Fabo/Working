@@ -14,6 +14,7 @@
     - [Strings](#strings)
     - [Secuencia de Escape](#secuencia-de-escape)
     - [Arrays](#arreglos)
+    - [Funciones](#funciones)
 
 ---
 
@@ -69,7 +70,7 @@
 - **producto \*= 2**
 - **cociente /= 3**
 
-### Strings
+### ⛓️ Strings
 
 - **'nombre'**
 - **"nombre"**
@@ -91,7 +92,18 @@
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
 
-### Arreglos
+### 📚 Arreglos
 
-- **array** = ['Fabo', 'Crack']
-- **array**[0] //Fabo :0
+- **Declaración:** array = ['Fabo', 'Crack']
+- **Acceso:** array[0] //Fabo :0
+- **Remplazo:** array[0] = 'Pto'
+- **Agregar al Final:** array.push('Elemento')
+- **Eliminar Ultimo:** array.pop()
+- **Eliminar primero:** array.shift()
+- **Agregar al Principio:** array.unshift('Elemento')
+- **Imprimir:** JSON.stringify(array)
+
+### Funciones
+
+- **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
+- **Parametros:** function suma(a, b){ return a + b; }
