@@ -189,7 +189,7 @@ console.log(respuesta)
 
 <table>
 <tr>
-<td> Declaración </td> <td> Declaración corchetes </td>
+<td> Declaración </td> <td> Declaración corchetes </td><td> Agregar Campo</td>
 </tr>
 <tr>
 <td>
@@ -213,6 +213,20 @@ var perro = {
     'la raza es': 'Pitbull'
 };
 console.log(perro['la raza es'])
+```
+ 
+</td>
+<td>
+ 
+
+```js
+var perro = {
+    'nombre': 'Pepe',
+    'edad': 3,
+    'la raza es': 'Pitbull'
+};
+perro.color = 'negro'
+console.log(perro)
 ```
  
 </td>

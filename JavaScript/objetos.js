@@ -3,4 +3,5 @@ var perro = {
     'edad': 3,
     'la raza es': 'Pitbull'
 };
-console.log(perro['la raza es'])
+perro.color = 'negro'
+console.log(perro)
