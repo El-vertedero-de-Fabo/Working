@@ -187,50 +187,17 @@ console.log(respuesta)
 
 ## ☕ Objetos
 
-<table>
-<tr>
-<td> Declaración </td> <td> Declaración corchetes </td><td> Agregar Campo</td>
-</tr>
-<tr>
-<td>
- 
-```js
-var perro = {
-    'nombre': 'Pepe',
-    'edad': 3,
-    'raza': 'Pitbull'
-};
-console.log(perro.nombre)
-```
-</td>
-<td>
- 
-
+#### **Objeto de ejemplo**
 ```js
 var perro = {
     'nombre': 'Pepe',
     'edad': 3,
     'la raza es': 'Pitbull'
 };
-console.log(perro['la raza es'])
 ```
- 
-</td>
-<td>
- 
 
-```js
-var perro = {
-    'nombre': 'Pepe',
-    'edad': 3,
-    'la raza es': 'Pitbull'
-};
-perro.color = 'negro'
-console.log(perro)
-```
- 
-</td>
-</tr>
- 
-</table>
-
+- **acceso:** console.log(perro.nombre)
+- **acceso Corchetes:** console.log(perro['la raza es'])
+- **agregar:** perro.color = 'negro'
+- **eliminar:** delete perro.nombre
+- **Se podria utilizar para remplazar un case/else if**
