@@ -119,4 +119,53 @@
 - **if (true) { a++; }**
 - **if (true) { a++; } else { a--; }**
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
-- 
+
+
+### Switch Normal
+```js
+var valor = 66;
+var respuesta;
+switch (valor){
+    case 1:
+        respuesta = 'valor uno';
+        break;
+    case 2:
+        respuesta = 'valor dos';
+        break;
+    case 3:
+        respuesta = 'valor tres';
+        break;
+    default:
+        respuesta = 'que carajos hiciste';
+        break;
+
+}
+console.log(respuesta)
+```
+
+### Switch Multiples Casos
+
+```js
+var valor = 66;
+var respuesta;
+switch (valor){
+    case 1:
+        respuesta = 'valor uno';
+        break;
+    case 2:
+    case 3:
+    case 4:
+        respuesta = 'valor dos, tres o cuatro';
+        break;
+    case 5:
+        respuesta = 'valor cinco';
+        break;
+    default:
+        respuesta = 'que carajos hiciste';
+        break;
+
+}
+console.log(respuesta)
+```
+
+### ☕ Objeto
