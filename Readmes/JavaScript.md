@@ -15,12 +15,13 @@
     - [Secuencia de Escape](#secuencia-de-escape)
     - [Arrays](#arreglos)
     - [Funciones](#funciones)
+    - [Condicionales]()
 
 ---
 
 # ⌨️ Conceptos Basicos
 
-### 💭Comentarios
+## 💭Comentarios
 ```js
 // Comentario de una linea
 /*
@@ -29,7 +30,7 @@
     Lineas
 */
 ```
-### 📈 Tipos de Datos
+## 📈 Tipos de Datos
 - **undefined :** Cuando no existe un valor asignado
 - **null :** Para inicializar los objetos
 - **boolean :** True | false
@@ -48,14 +49,14 @@
 - **number :** numeros de toda la vida
 - **object :** para objetos :0
 
-### 🖱️ Variables
+## 🖱️ Variables
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
 - **`const`** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-### 🧮 Operaciones Aritmeticas
+## 🧮 Operaciones Aritmeticas
 
 - **suma:** 5 + 5;
 - **resta:** 5 - 10;
@@ -73,10 +74,10 @@
 - **igualdad Estricta:** 5 === '5' //false
 - **desigualdad:** 5 != '5' //false
 - **desigualdad Estricta:** 5 !== '5' //true
-- **operadores:** <, > , <=, >=
+- **operadores:** <, > , <=, >=, &&, ||, !true //false
 
 
-### ⛓️ Strings
+## ⛓️ Strings
 
 - **'nombre'**
 - **"nombre"**
@@ -88,7 +89,7 @@
 - **cadena[indice]**
 - Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"` pero podemos modificar la cadena completa (`cadena = otraCadena`)
 
-### 💻 Secuencia de Escape
+## 💻 Secuencia de Escape
 - `\'` Comilla simple
 - `\"` Comilla doble
 - `\\` Barra invertida
@@ -98,7 +99,7 @@
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
 
-### 📚 Arreglos
+## 📚 Arreglos
 
 - **Declaración:** array = ['Fabo', 'Crack']
 - **Acceso:** array[0] //Fabo :0
@@ -109,7 +110,13 @@
 - **Agregar al Principio:** array.unshift('Elemento')
 - **Imprimir:** JSON.stringify(array)
 
-### Funciones
-
+## Funciones
 - **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
 - **Parametros:** function suma(a, b){ return a + b; }
+
+
+## Condicionales
+- **if (true) { a++; }**
+- **if (true) { a++; } else { a--; }**
+- **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
+- 
