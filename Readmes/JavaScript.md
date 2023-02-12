@@ -1,6 +1,6 @@
 <h1 align="center"> 🕹️JavaScript  </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif"/>
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"/>
  </div>
 
 ---
@@ -18,7 +18,7 @@
 
 ---
 
-# Conceptos Basicos
+# ⌨️ Conceptos Basicos
 
 ### 💭Comentarios
 ```js
@@ -48,7 +48,7 @@
 - **number :** numeros de toda la vida
 - **object :** para objetos :0
 
-### Variables
+### 🖱️ Variables
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
@@ -57,18 +57,22 @@
 
 ### 🧮 Operaciones Aritmeticas
 
-- **suma** = 5 + 5;
-- **resta** = 5 - 10;
-- **producto** = 5 * 5;
-- **cociente** = 20 / 2;
-- **decimal** = 23.4
-- **resto** = 15 % 5
-- **incremento++;**
-- **resto--;**
-- **incrementoCustom += 5;**
-- **restoCustom -= 7;**
+- **suma:** 5 + 5;
+- **resta:** 5 - 10;
+- **producto:** 5 * 5;
+- **cociente:** 20 / 2;
+- **decimal:** 23.4
+- **resto:** 15 % 5
+- **incremento++**
+- **resto--**
+- **incrementoCustom += 5**
+- **restoCustom -= 7**
 - **producto \*= 2**
 - **cociente /= 3**
+- **igualdad:** 5 == '5' //true
+- **igualdad Estricta:** 5 === '5' //false
+- **desigualdad:** 9 != 6
+
 
 ### ⛓️ Strings
 
@@ -82,7 +86,7 @@
 - **cadena[indice]**
 - Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"` pero podemos modificar la cadena completa (`cadena = otraCadena`)
 
-### Secuencia de Escape
+### 💻 Secuencia de Escape
 - `\'` Comilla simple
 - `\"` Comilla doble
 - `\\` Barra invertida
