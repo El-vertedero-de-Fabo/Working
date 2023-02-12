@@ -16,8 +16,7 @@
     - [📚 Arrays](#📚-arreglos)
     - [Funciones](#funciones)
     - [Condicionales](#condicionales)
-    - [Switch Normal](#switch-normal)
-    - [Switch Multiples Casos](#switch-multiples-casos)
+    - [Switch](#switch)
     - [☕ Objetos](#☕-objetos)
 
 ---
@@ -124,7 +123,15 @@
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
 
 
-## Switch Normal
+## Switch
+
+<table>
+<tr>
+<td> Switch Normal </td> <td> Switch Multiples Casos </td>
+</tr>
+<tr>
+<td>
+ 
 ```js
 var valor = 66;
 var respuesta;
@@ -145,8 +152,9 @@ switch (valor){
 }
 console.log(respuesta)
 ```
-
-## Switch Multiples Casos
+</td>
+<td>
+ 
 
 ```js
 var valor = 66;
@@ -170,6 +178,45 @@ switch (valor){
 }
 console.log(respuesta)
 ```
+ 
+</td>
+</tr>
+ 
+</table>
 
-### ☕ Objetos
+
+## ☕ Objetos
+
+<table>
+<tr>
+<td> Declaración </td> <td> Declaración corchetes </td>
+</tr>
+<tr>
+<td>
+ 
+```js
+var perro = {
+    'nombre': 'Pepe',
+    'edad': 3,
+    'raza': 'Pitbull'
+};
+console.log(perro.nombre)
+```
+</td>
+<td>
+ 
+
+```js
+var perro = {
+    'nombre': 'Pepe',
+    'edad': 3,
+    'la raza es': 'Pitbull'
+};
+console.log(perro['la raza es'])
+```
+ 
+</td>
+</tr>
+ 
+</table>
 
