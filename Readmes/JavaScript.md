@@ -208,6 +208,6 @@ console.log(respuesta)
 - **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
 
 ## 📐Numeros Aleatorios
-- **Math.random()**
-- **Math.floor(Math.random() * n1)** //Rango entre 0 y n1-1  
-- **Math.floor(Math.random() * (n2 - n1 + 1)) + n1**
+- **[ 0-1 ):** Math.random()
+- **[ 0 - (n1-1) ]:** Math.floor( Math.random() * n1 )   
+- **[ n1 - n2 ]:** Math.floor(Math.random() * (n2 - n1 + 1)) + n1
