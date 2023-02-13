@@ -16,6 +16,7 @@
     - [Condicionales](#condicionales)
     - [Switch](#switch)
     - [☕ Objetos](#☕-objetos)
+    - [Bucles]()
 
 ---
 
@@ -53,7 +54,7 @@
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
-- **`const`** Tiene alcance de bloque, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
+- **`const`** Tiene alcance de `bloque`, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
 ##  Operaciones
@@ -215,3 +216,6 @@ console.log(respuesta)
 - **eliminar:** delete perro.nombre
 - **Se podria utilizar para remplazar un case/else if**
 - **verificar propiedad:** perro.hasOwnPropery('edad')
+
+
+## Bucles
