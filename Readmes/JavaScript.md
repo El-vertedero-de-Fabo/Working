@@ -17,11 +17,8 @@
     - [🔘 Switch](#🔘-switch)
     - [☕ Objetos](#☕-objetos)
     - [🔁Bucles](#🔁-bucles)
-
 ---
-
 # ⌨️ Conceptos Basicos
-
 ## 💭Comentarios
 ```js
 // Comentario de una linea
@@ -104,17 +101,11 @@
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
 
-
-
-
-
 </td>
 </tr>
- 
 </table>
+
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
-
-
 
 ## 📚 Arreglos
 
@@ -131,12 +122,10 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
 - **Parametros:** function suma(a, b){ return a + b; }
 
-
 ## Condicionales
 - **if (true) { a++; }**
 - **if (true) { a++; } else { a--; }**
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
-
 
 ## 🔘 Switch
 
@@ -163,13 +152,11 @@ switch (valor){
     default:
         respuesta = 'que carajos hiciste';
         break;
-
 }
 console.log(respuesta)
 ```
 </td>
 <td>
- 
 
 ```js
 var valor = 66;
@@ -189,16 +176,13 @@ switch (valor){
     default:
         respuesta = 'que carajos hiciste';
         break;
-
 }
 console.log(respuesta)
 ```
- 
 </td>
 </tr>
  
 </table>
-
 
 ## ☕ Objetos
 
@@ -216,7 +200,6 @@ console.log(respuesta)
 - **eliminar:** delete perro.nombre
 - **Se podria utilizar para remplazar un case/else if**
 - **verificar propiedad:** perro.hasOwnPropery('edad')
-
 
 ## 🔁 Bucles
 
