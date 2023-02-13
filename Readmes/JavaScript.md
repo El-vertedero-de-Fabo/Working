@@ -12,11 +12,11 @@
     - [🖱️ Variables](#🖱️-variables)
     - [🧮 Operaciones](#operaciones)
     - [📚 Arrays](#📚-arreglos)
-    - [Funciones](#funciones)
-    - [Condicionales](#condicionales)
-    - [Switch](#switch)
+    - [🔋 Funciones](#funciones)
+    - [💽 Condicionales](#condicionales)
+    - [🔘 Switch](#🔘-switch)
     - [☕ Objetos](#☕-objetos)
-    - [Bucles]()
+    - [🔁Bucles](#🔁-bucles)
 
 ---
 
@@ -138,7 +138,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
 
 
-## Switch
+## 🔘 Switch
 
 <table>
 <tr>
@@ -218,4 +218,8 @@ console.log(respuesta)
 - **verificar propiedad:** perro.hasOwnPropery('edad')
 
 
-## Bucles
+## 🔁 Bucles
+
+- **while (a > 10) { a-- }**
+- **for (var i = 0; i < 10; i++) {  }**
+- **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
