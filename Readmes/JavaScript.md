@@ -206,3 +206,8 @@ console.log(respuesta)
 - **while (a > 10) { a-- }**
 - **for (var i = 0; i < 10; i++) {  }**
 - **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
+
+## 📐Numeros Aleatorios
+- **Math.random()**
+- **Math.floor(Math.random() * n1)** //Rango entre 0 y n1-1  
+- **Math.floor(Math.random() * (n2 - n1 + 1)) + n1**
