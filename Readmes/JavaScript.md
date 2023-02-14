@@ -78,7 +78,7 @@
 
 ##  Operaciones
 
-</div>
+
 
 <table>
 <tr>
@@ -131,6 +131,8 @@
 </tr>
 </table>
 
+</div>
+
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
 <div align="center">
@@ -165,7 +167,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
 ## 🔘 Switch
 
-</div>
+
 
 <table>
 <tr>
@@ -221,6 +223,8 @@ console.log(respuesta)
 </tr>
  
 </table>
+
+</div>
 
 <div align="center">
 
