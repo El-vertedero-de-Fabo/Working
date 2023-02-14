@@ -149,12 +149,21 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **Eliminar primero:** array.shift()
 - **Agregar al Principio:** array.unshift('Elemento')
 - **Imprimir:** JSON.stringify(array)
+<div align="center">
 
 ## Funciones
+
+</div>
+
 - **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
 - **Parametros:** function suma(a, b){ return a + b; }
 
+<div align="center">
+
 ## Condicionales
+
+</div>
+
 - **if (true) { a++; }**
 - **if (true) { a++; } else { a--; }**
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
@@ -166,8 +175,6 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 <div align="center">
 
 ## 🔘 Switch
-
-
 
 <table>
 <tr>
