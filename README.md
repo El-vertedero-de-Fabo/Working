@@ -10,6 +10,10 @@
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"/>
  </div>
 
-## Indice
+### 💻 Introducción
+
+Este readme contiene todos los temas que estoy aprendiendo, me di cuenta que aprendo mucho escribiendo mis apuntes en markdown porque los tengo más a mano y es muy manipulable para dejarlo de la forma mas legible posible (para mi)
+
+## 📖 Indice
 
 - [🕹️JavaScript](/Readmes/JavaScript.md)

@@ -100,6 +100,8 @@
 - `\t` Tabulación
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
+- **cadenaANumero:** parseInt("-47")
+- **aBinario:** parseInt("1101111", 2)
 
 </td>
 </tr>
@@ -126,6 +128,8 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **if (true) { a++; }**
 - **if (true) { a++; } else { a--; }**
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
+- **x < y ? x : y** Si la condicion es True, retorna x sino y
+
 
 ## 🔘 Switch
 
@@ -207,7 +211,8 @@ console.log(respuesta)
 - **for (var i = 0; i < 10; i++) {  }**
 - **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
 
-## 📐Numeros Aleatorios
-- **[ 0-1 ):** Math.random()
+## 📐Numeros Random
+- **[ 0 - 1 ):** Math.random()
 - **[ 0 - (n1-1) ]:** Math.floor( Math.random() * n1 )   
 - **[ n1 - n2 ]:** Math.floor(Math.random() * (n2 - n1 + 1)) + n1
+
