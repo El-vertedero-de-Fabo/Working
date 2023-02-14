@@ -96,7 +96,7 @@
 - `\"` Comilla doble
 - `\\` Barra invertida
 - `\n` Salto de linea
-- `\r` Nos permite quedarnos con el resto de un string (a chequear)
+- `\r` 
 - `\t` Tabulación
 - `\b` Retroceso (a chequear)
 - `\f` Salto de Pagina (a chequear)
