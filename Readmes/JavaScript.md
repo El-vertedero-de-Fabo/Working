@@ -5,6 +5,8 @@
 
 ---
 
+<div align="center">
+
 # 👉 Indice
 - [⌨️ Conceptos Basicos](#⌨️-conceptos-basicos)
     - [💭 Comentarios](#💭comentarios)
@@ -17,6 +19,10 @@
     - [🔘 Switch](#🔘-switch)
     - [☕ Objetos](#☕-objetos)
     - [🔁Bucles](#🔁-bucles)
+
+ </div>
+
+
 ---
 # ⌨️ Conceptos Basicos
 ## 💭Comentarios
