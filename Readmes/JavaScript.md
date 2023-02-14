@@ -22,8 +22,13 @@
 
 
 ---
+
+<div align="center">
+
 # ⌨️ Conceptos Basicos
 ## 💭Comentarios
+</div>
+
 ```js
 // Comentario de una linea
 /*
@@ -32,7 +37,13 @@
     Lineas
 */
 ```
+
+<div align="center">
+
 ## 📈 Tipos de Datos
+</div>
+
+
 - **undefined :** Cuando no existe un valor asignado
 - **null :** Para inicializar los objetos
 - **boolean :** True | false
@@ -51,14 +62,23 @@
 - **number :** numeros de toda la vida
 - **object :** para objetos :0
 
+
+<div align="center">
+
 ## 🖱️ Variables
+
+</div>
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
 - **`const`** Tiene alcance de `bloque`, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
+<div align="center">
+
 ##  Operaciones
+
+</div>
 
 <table>
 <tr>
