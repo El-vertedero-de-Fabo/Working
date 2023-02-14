@@ -133,7 +133,9 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **if (true) { a++; } else { a--; }**
 - **if (true) { a++; } else if (false) { a--; } else { a+=4 }**
 - **x < y ? x : y** Si la condicion es True, retorna x sino y
-
+- a === b ? "a y b son iguales" <br> 
+: a > b ? "A es mayor que B" <br>
+: "B es mayor que A"
 
 ## 🔘 Switch
 
