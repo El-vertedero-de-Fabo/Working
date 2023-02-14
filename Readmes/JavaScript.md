@@ -133,7 +133,11 @@
 
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
+<div align="center">
+
 ## 📚 Arreglos
+
+</div>
 
 - **Declaración:** array = ['Fabo', 'Crack']
 - **Acceso:** array[0] //Fabo :0
@@ -157,7 +161,11 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 : a > b ? "A es mayor que B" <br>
 : "B es mayor que A"
 
+<div align="center">
+
 ## 🔘 Switch
+
+</div>
 
 <table>
 <tr>
@@ -214,7 +222,11 @@ console.log(respuesta)
  
 </table>
 
+<div align="center">
+
 ## ☕ Objetos
+
+</div>
 
 - **Objeto de ejemplo**
     ```js
@@ -231,13 +243,22 @@ console.log(respuesta)
 - **Se podria utilizar para remplazar un case/else if**
 - **verificar propiedad:** perro.hasOwnPropery('edad')
 
+<div align="center">
+
 ## 🔁 Bucles
+
+</div>
 
 - **while (a > 10) { a-- }**
 - **for (var i = 0; i < 10; i++) {  }**
 - **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
 
+<div align="center">
+
 ## 📐Numeros Random
+
+</div>
+
 - **[ 0 - 1 ):** Math.random()
 - **[ 0 - (n1-1) ]:** Math.floor( Math.random() * n1 )   
 - **[ n1 - n2 ]:** Math.floor(Math.random() * (n2 - n1 + 1)) + n1
