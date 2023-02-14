@@ -5,7 +5,6 @@
 
 ---
 
-<div align="center">
 
 # 👉 Indice
 - [⌨️ Conceptos Basicos](#⌨️-conceptos-basicos)
@@ -20,7 +19,6 @@
     - [☕ Objetos](#☕-objetos)
     - [🔁Bucles](#🔁-bucles)
 
- </div>
 
 
 ---
