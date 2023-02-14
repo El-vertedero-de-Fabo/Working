@@ -7,7 +7,7 @@
 
 <h1 align="center"> 🖥️Working  </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"/>
+  <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"/>
  </div>
 
 ### 💻 Introducción
