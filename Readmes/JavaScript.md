@@ -7,17 +7,17 @@
 
 # 👉 Indice
 - [⌨️ Conceptos Basicos](#⌨️-conceptos-basicos)
-    - [💭 Comentarios](#💭comentarios)
-    - [📈 Tipo de Datos](#📈-tipos-de-datos)
-    - [🖱️ Variables](#🖱️-variables)
+    - [💭 Comentarios](#comentarios)
+    - [📈 Tipo de Datos](#tipos-de-datos)
+    - [🖱️ Variables](#variables)
     - [🧮 Operaciones](#operaciones)
-    - [📚 Arrays](#📚-arreglos)
+    - [📚 Arrays](#arreglos)
     - [🔋 Funciones](#funciones)
     - [💽 Condicionales](#condicionales)
-    - [🔘 Switch](#🔘-switch)
-    - [☕ Objetos](#☕-objetos)
-    - [🔁Bucles](#🔁-bucles)
-    - [📐 Numeros Random](#📐numeros-random)
+    - [🔘 Switch](#switch)
+    - [☕ Objetos](#objetos)
+    - [🔁Bucles](#bucles)
+    - [📐 Numeros Random](#numeros-random)
 
 ---
 
