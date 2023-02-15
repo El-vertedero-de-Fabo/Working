@@ -53,14 +53,14 @@
 - **number :** numeros de toda la vida
 - **object :** para objetos :0
 
-## 🖱️ Variables
+## 🖱️Variables
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
 - **`const`** Tiene alcance de `bloque`, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-##  Operaciones
+## Operaciones
 
 <table>
 <tr>
@@ -116,7 +116,7 @@
 
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
-## 📚 Arreglos
+## 📚Arreglos
 
 - **Declaración:** array = ['Fabo', 'Crack']
 - **Acceso:** array[0] //Fabo :0
@@ -142,7 +142,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 : a > b ? "A es mayor que B" <br>
 : "B es mayor que A"
 
-## 🔘 Switch
+## 🔘Switch
 
 <table>
 <tr>
@@ -197,7 +197,7 @@ console.log(respuesta)
 </td></tr>
 </table>
 
-## ☕ Objetos
+## ☕Objetos
 
 - **Objeto de ejemplo**
     ```js
@@ -214,7 +214,7 @@ console.log(respuesta)
 - **Se podria utilizar para remplazar un case/else if**
 - **verificar propiedad:** perro.hasOwnPropery('edad')
 
-## 🔁 Bucles
+## 🔁Bucles
 
 - **while (a > 10) { a-- }**
 - **for (var i = 0; i < 10; i++) {  }**
