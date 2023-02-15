@@ -1,11 +1,13 @@
-<h1 align="center"> 🕹️JavaScript  </h1>
 <div align="center">
+
+# 🕹️`JavaScript`
+
   <img src="https://media.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif"/>
  </div>
 
 ---
 
-# 👉 Indice
+# 👉 `Indice`
 - [⌨️ Conceptos Basicos](#conceptos-basicos)
     - [💭 Comentarios](#comentarios)
     - [📈 Tipo de Datos](#tipos-de-datos)
