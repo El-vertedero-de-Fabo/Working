@@ -130,6 +130,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **Imprimir:** JSON.stringify(array)
 - **sumar Elementos:** array.reduce( (a, b) => a + b, 0);
     Reduce una matriz a un valor acumulado aplicando LAMBDA a cada valor y devolviendo el valor total en el acumulador.
+- **Desglozar:** funcionRara(...array) // Manda los elementos del arreglo como parametros 
 
 ## `Funciones`
 
