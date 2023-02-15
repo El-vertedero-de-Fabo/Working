@@ -21,8 +21,8 @@
 
 ---
 
-# ⌨️ Conceptos Basicos
-## 💭Comentarios
+# ⌨️ `Conceptos Basicos`
+## 💭`Comentarios`
 
 ```js
 // Comentario de una linea
@@ -33,7 +33,7 @@
 */
 ```
 
-## 📈Tipos de Datos
+## 📈`Tipos de Datos`
 
 - **undefined :** Cuando no existe un valor asignado
 - **null :** Para inicializar los objetos
@@ -131,7 +131,12 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
 - **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
 - **Parametros:** function suma(a, b){ return a + b; }
-
+- **Funciones Flecha:** const fecha = () => new Date();
+- **Funciones Flecha con Parametro:** const sumarTres = (x) => x + 3;
+- **Otro Ejemplo:** const sumar = (a, b) => { <br>
+    let num = 6; <br>
+    return a + b + num;};
+- **Valor por Defecto:** const Incrementar = (num, valor = 1) => num + valor;
 ## Condicionales
 
 - **if (true) { a++; }**
@@ -213,6 +218,7 @@ console.log(respuesta)
 - **eliminar:** delete perro.nombre
 - **Se podria utilizar para remplazar un case/else if**
 - **verificar propiedad:** perro.hasOwnPropery('edad')
+- **congelar Objeto (Constante):** Object.freeze(perro)
 
 ## 🔁Bucles
 
