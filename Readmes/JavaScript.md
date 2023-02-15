@@ -5,7 +5,6 @@
 
 ---
 
-
 # 👉 Indice
 - [⌨️ Conceptos Basicos](#⌨️-conceptos-basicos)
     - [💭 Comentarios](#💭comentarios)
@@ -20,15 +19,10 @@
     - [🔁Bucles](#🔁-bucles)
     - [📐 Numeros Random](#📐numeros-random)
 
-
-
 ---
-
-<div align="center">
 
 # ⌨️ Conceptos Basicos
 ## 💭Comentarios
-</div>
 
 ```js
 // Comentario de una linea
@@ -39,11 +33,7 @@
 */
 ```
 
-<div align="center">
-
 ## 📈 Tipos de Datos
-</div>
-
 
 - **undefined :** Cuando no existe un valor asignado
 - **null :** Para inicializar los objetos
@@ -63,23 +53,14 @@
 - **number :** numeros de toda la vida
 - **object :** para objetos :0
 
-
-<div align="center">
-
 ## 🖱️ Variables
-
-</div>
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
 - **`const`** Tiene alcance de `bloque`, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-<div align="center">
-
 ##  Operaciones
-
-
 
 <table>
 <tr>
@@ -91,6 +72,7 @@
 - **suma:** 5 + 5;
 - **resta:** 5 - 10;
 - **producto:** 5 * 5;
+- **cuadrado** radio ** 2
 - **cociente:** 20 / 2;
 - **decimal:** 23.4
 - **resto:** 15 % 5
@@ -132,15 +114,9 @@
 </tr>
 </table>
 
-</div>
-
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
-<div align="center">
-
 ## 📚 Arreglos
-
-</div>
 
 - **Declaración:** array = ['Fabo', 'Crack']
 - **Acceso:** array[0] //Fabo :0
@@ -150,20 +126,13 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **Eliminar primero:** array.shift()
 - **Agregar al Principio:** array.unshift('Elemento')
 - **Imprimir:** JSON.stringify(array)
-<div align="center">
 
 ## Funciones
-
-</div>
 
 - **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
 - **Parametros:** function suma(a, b){ return a + b; }
 
-<div align="center">
-
 ## Condicionales
-
-</div>
 
 - **if (true) { a++; }**
 - **if (true) { a++; } else { a--; }**
@@ -172,8 +141,6 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - a === b ? "a y b son iguales" <br> 
 : a > b ? "A es mayor que B" <br>
 : "B es mayor que A"
-
-<div align="center">
 
 ## 🔘 Switch
 
@@ -227,18 +194,10 @@ switch (valor){
 }
 console.log(respuesta)
 ```
-</td>
-</tr>
- 
+</td></tr>
 </table>
 
-</div>
-
-<div align="center">
-
 ## ☕ Objetos
-
-</div>
 
 - **Objeto de ejemplo**
     ```js
@@ -255,21 +214,13 @@ console.log(respuesta)
 - **Se podria utilizar para remplazar un case/else if**
 - **verificar propiedad:** perro.hasOwnPropery('edad')
 
-<div align="center">
-
 ## 🔁 Bucles
-
-</div>
 
 - **while (a > 10) { a-- }**
 - **for (var i = 0; i < 10; i++) {  }**
 - **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
 
-<div align="center">
-
 ## 📐Numeros Random
-
-</div>
 
 - **[ 0 - 1 ):** Math.random()
 - **[ 0 - (n1-1) ]:** Math.floor( Math.random() * n1 )   
