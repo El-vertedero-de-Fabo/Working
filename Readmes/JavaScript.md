@@ -133,15 +133,17 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
 ## `Funciones`
 
-- **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
-- **Parametros:** function suma(a, b){ return a + b; }
-- **Funciones Flecha:** const fecha = () => new Date();
-- **Funciones Flecha con Parametro:** const sumarTres = (x) => x + 3;
-- **Otro Ejemplo:** const sumar = (a, b) => { <br>
+- **Cuerpo:** <br> function mensaje(){ console.log('Hola mundo'); }
+- **Parametros:**<br> function suma(a, b){ return a + b; }
+- **Funciones Flecha:**<br> const fecha = () => new Date();
+- **Funciones Flecha con Parametro:** <br> const sumarTres = (x) => x + 3;
+- **Otro Ejemplo:** <br> const sumar = (a, b) => { <br>
     let num = 6; <br>
     return a + b + num;};
-- **Valor por Defecto:** const Incrementar = (num, valor = 1) => num + valor;
-- **Argumentos:** const sumar = (x, y, )
+- **Valor por Defecto:**<br> const Incrementar = (num, valor = 1) => num + valor;
+- **Argumentos:** <br>const sumar = (...argumentos) +> { <br>
+    return argumentos.reduce((a , b) = a + b, 0) <br>
+}
 
 ## `Condicionales`
 
