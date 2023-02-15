@@ -33,7 +33,7 @@
 */
 ```
 
-## 📈 Tipos de Datos
+## 📈Tipos de Datos
 
 - **undefined :** Cuando no existe un valor asignado
 - **null :** Para inicializar los objetos
