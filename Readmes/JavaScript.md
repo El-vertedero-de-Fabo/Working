@@ -120,17 +120,17 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
 ## 📚`Arreglos`
 
-- **`Declaración`** <br> array = ['Fabo', 'Crack']
-- **Acceso:** <br> array[0] //Fabo :0
-- **`Remplazo`** <br> array[0] = 'Pto'
-- **`Agregar al Final`** <br> array.push('Elemento')
-- **`Eliminar Ultimo`** <br> array.pop()
-- **`Eliminar primero`** <br> array.shift()
-- **`Agregar al Principio`** <br> array.unshift('Elemento')
-- **`Imprimir`** <br> JSON.stringify(array)
-- **`sumar Elementos`** <br> array.reduce( (a, b) => a + b, 0); <br>
+- **`Declaración`**  array = ['Fabo', 'Crack']
+- **Acceso:**  array[0] //Fabo :0
+- **`Remplazo`**  array[0] = 'Pto'
+- **`Agregar al Final`**  array.push('Elemento')
+- **`Eliminar Ultimo`**  array.pop()
+- **`Eliminar primero`**  array.shift()
+- **`Agregar al Principio`**  array.unshift('Elemento')
+- **`Imprimir`**  JSON.stringify(array)
+- **`sumar Elementos`**  array.reduce( (a, b) => a + b, 0); <br>
     Reduce una matriz a un valor acumulado aplicando LAMBDA a cada valor y devolviendo el valor total en el acumulador.
-- **`Desglozar`** <br> funcionRara(...array) // Manda los elementos del arreglo como parametros 
+- **`Desglozar`** funcionRara(...array) <br>  Manda los elementos del arreglo como parametros 
 
 ## `Funciones`
 
