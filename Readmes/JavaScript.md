@@ -18,7 +18,7 @@
     - [🔘 Switch](#🔘-switch)
     - [☕ Objetos](#☕-objetos)
     - [🔁Bucles](#🔁-bucles)
-    - [](#📐numeros-random)
+    - [📐 Numeros Random](#📐numeros-random)
 
 
 
