@@ -6,7 +6,7 @@
 ---
 
 # 👉 Indice
-- [⌨️ Conceptos Basicos](#⌨️-conceptos-basicos)
+- [⌨️ Conceptos Basicos](#conceptos-basicos)
     - [💭 Comentarios](#comentarios)
     - [📈 Tipo de Datos](#tipos-de-datos)
     - [🖱️ Variables](#variables)
