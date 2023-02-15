@@ -64,6 +64,8 @@
 
 ## `Operaciones`
 
+<div align="center">
+
 <table>
 <tr>
 <td> 🧮 Aritmeticas </td> <td> ⛓️ Strings </td>
@@ -116,6 +118,8 @@
 </tr>
 </table>
 
+</div>
+
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
 ## 📚`Arreglos`
@@ -157,6 +161,8 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 : "B es mayor que A"
 
 ## 🔘`Switch`
+
+<div align="center">
 
 <table>
 <tr>
@@ -210,6 +216,8 @@ console.log(respuesta)
 ```
 </td></tr>
 </table>
+
+</div>
 
 ## ☕`Objetos`
 
