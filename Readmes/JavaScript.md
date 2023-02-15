@@ -9,7 +9,7 @@
 - [⌨️ Conceptos Basicos](#conceptos-basicos)
     - [💭 Comentarios](#comentarios)
     - [📈 Tipo de Datos](#tipos-de-datos)
-    - [🖱️ Variables](#variables)
+    - [🖱️ Variables](#🖱️variables)
     - [🧮 Operaciones](#operaciones)
     - [📚 Arrays](#arreglos)
     - [🔋 Funciones](#funciones)
@@ -53,14 +53,14 @@
 - **number :** numeros de toda la vida
 - **object :** para objetos :0
 
-## 🖱️Variables
+## 🖱️`Variables`
 
 - **`var`** Tiene alcance de función, se puede usar las veces que quieras para la misma variable.
 - **`let`** Tiene todas las propiedades del const pero se puede reasignar datos.
 - **`const`** Tiene alcance de `bloque`, solo se puede usar una vez por cada variable, no podes reasignar datos porque es una constante xd,
 - **`bloque`** Es basicamente cualquier espacio que esté entre llaves de apertura y cierre (incluyendo las funciones).
 
-## Operaciones
+## `Operaciones`
 
 <table>
 <tr>
@@ -116,7 +116,7 @@
 
 Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 
-## 📚Arreglos
+## 📚`Arreglos`
 
 - **Declaración:** array = ['Fabo', 'Crack']
 - **Acceso:** array[0] //Fabo :0
@@ -127,7 +127,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **Agregar al Principio:** array.unshift('Elemento')
 - **Imprimir:** JSON.stringify(array)
 
-## Funciones
+## `Funciones`
 
 - **Cuerpo:** function mensaje(){ console.log('Hola mundo'); }
 - **Parametros:** function suma(a, b){ return a + b; }
@@ -137,7 +137,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
     let num = 6; <br>
     return a + b + num;};
 - **Valor por Defecto:** const Incrementar = (num, valor = 1) => num + valor;
-## Condicionales
+## `Condicionales`
 
 - **if (true) { a++; }**
 - **if (true) { a++; } else { a--; }**
@@ -147,7 +147,7 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 : a > b ? "A es mayor que B" <br>
 : "B es mayor que A"
 
-## 🔘Switch
+## 🔘`Switch`
 
 <table>
 <tr>
@@ -202,7 +202,7 @@ console.log(respuesta)
 </td></tr>
 </table>
 
-## ☕Objetos
+## ☕`Objetos`
 
 - **Objeto de ejemplo**
     ```js
@@ -220,13 +220,13 @@ console.log(respuesta)
 - **verificar propiedad:** perro.hasOwnPropery('edad')
 - **congelar Objeto (Constante):** Object.freeze(perro)
 
-## 🔁Bucles
+## 🔁`Bucles`
 
 - **while (a > 10) { a-- }**
 - **for (var i = 0; i < 10; i++) {  }**
 - **do { a-- } while (a > 10)**// Cuando se le pide datos al usuario
 
-## 📐Numeros Random
+## 📐`Numeros Random`
 
 - **[ 0 - 1 ):** Math.random()
 - **[ 0 - (n1-1) ]:** Math.floor( Math.random() * n1 )   
