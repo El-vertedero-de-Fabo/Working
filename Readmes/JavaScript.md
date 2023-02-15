@@ -213,7 +213,7 @@ console.log(respuesta)
 
 ## ☕`Objetos`
 
-- **Objeto de ejemplo**
+- **`Objeto de ejemplo`**
     ```js
     var perro = {
         'nombre': 'Pepe',
@@ -221,13 +221,13 @@ console.log(respuesta)
         'la raza es': 'Pitbull'
     };
     ```
-- **acceso:** console.log(perro.nombre)
-- **acceso Corchetes:** console.log(perro['la raza es'])
-- **agregar:** perro.color = 'negro'
-- **eliminar:** delete perro.nombre
+- **`acceso`** console.log(perro.nombre)
+- **`acceso Corchetes`** console.log(perro['la raza es'])
+- **`agregar`** perro.color = 'negro'
+- **`eliminar`** delete perro.nombre
 - **Se podria utilizar para remplazar un case/else if**
-- **verificar propiedad:** perro.hasOwnPropery('edad')
-- **congelar Objeto (Constante):** Object.freeze(perro)
+- **`verificar propiedad`** perro.hasOwnPropery('edad')
+- **`congelar Objeto`** Object.freeze(perro)
 
 ## 🔁`Bucles`
 
@@ -237,7 +237,7 @@ console.log(respuesta)
 
 ## 📐`Numeros Random`
 
-- **[ 0 - 1 ):** Math.random()
-- **[ 0 - (n1-1) ]:** Math.floor( Math.random() * n1 )   
-- **[ n1 - n2 ]:** Math.floor(Math.random() * (n2 - n1 + 1)) + n1
+- **`[ 0 - 1 )`** Math.random()
+- **`[ 0 - (n1-1) ]`** Math.floor( Math.random() * n1 )   
+- **`[ n1 - n2 ]`** Math.floor(Math.random() * (n2 - n1 + 1)) + n1
 
