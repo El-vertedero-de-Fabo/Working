@@ -11,7 +11,7 @@
 - [⌨️ Conceptos Basicos](#conceptos-basicos)
     - [💭 Comentarios](#comentarios)
     - [📈 Tipo de Datos](#tipos-de-datos)
-    - [🖱️ Variables](#🖱️variables)
+    - [🖱️ Variables](#variables)
     - [🧮 Operaciones](#operaciones)
     - [📚 Arrays](#arreglos)
     - [🔋 Funciones](#funciones)
@@ -128,6 +128,8 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
 - **Eliminar primero:** array.shift()
 - **Agregar al Principio:** array.unshift('Elemento')
 - **Imprimir:** JSON.stringify(array)
+- **sumar Elementos:** array.reduce( (a, b) => a + b, 0);
+    Reduce una matriz a un valor acumulado aplicando LAMBDA a cada valor y devolviendo el valor total en el acumulador.
 
 ## `Funciones`
 
@@ -139,6 +141,8 @@ Las cadenas son inmutables, no podriamos hacer esto `cadena[0] = "X"`
     let num = 6; <br>
     return a + b + num;};
 - **Valor por Defecto:** const Incrementar = (num, valor = 1) => num + valor;
+- **Argumentos:** const sumar = (x, y, )
+
 ## `Condicionales`
 
 - **if (true) { a++; }**
