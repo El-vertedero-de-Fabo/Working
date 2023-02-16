@@ -3,7 +3,7 @@
 ## 🔙 [Pagina anterior](https://github.com/NomaDiix/Working)
 
 
-# 📌`Html`
+# 🌍`Ingles`
 
 <img src="https://media.giphy.com/media/dsQCNEhRCXF7QRh6Uy/giphy.gif"/>
 </div>
@@ -15,9 +15,3 @@
 - [⌨️ Conceptos basicos](#conceptos-basicos)
 
 ---
-
-# ⌨️ `Conceptos Basicos`
-
-## \<html>
-
-
