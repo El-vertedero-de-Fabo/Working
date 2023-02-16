@@ -20,8 +20,10 @@
     - [💽 Condicionales](#condicionales)
     - [🔘 Switch](#switch)
     - [☕ Objetos](#objetos)
-    - [🔁Bucles](#bucles)
+    - [🔁 Bucles](#bucles)
     - [📐 Numeros Random](#numeros-random)
+- [🌐 Conceptos para la Web](#conceptos-para-la-web)
+
 
 ---
 
@@ -265,3 +267,7 @@ console.log(respuesta)
 - **`[ 0 - (n1-1) ]`** Math.floor( Math.random() * n1 )   
 - **`[ n1 - n2 ]`** Math.floor(Math.random() * (n2 - n1 + 1)) + n1
 
+
+---
+
+# 🌐 Conceptos para la Web
