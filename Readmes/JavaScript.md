@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🔙 [Pagina anterior](/README.md)
+## 🔙 [Pagina anterior](https://github.com/NomaDiix/Working)
 
 # 🕹️`JavaScript`
 
