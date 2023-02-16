@@ -236,6 +236,18 @@ console.log(respuesta)
 - **Se podria utilizar para remplazar un case/else if**
 - **`verificar propiedad`** perro.hasOwnPropery('edad')
 - **`congelar Objeto`** Object.freeze(perro)
+- **`asignar`** const {nombre, edad} = perro;
+- **`Otro ejemplo`**
+    ```js
+    const usuario = {
+        jonhDoe : {
+            edad: 27,
+            corro : "jonh@gmail.com"
+        }
+    }
+    ```
+- **`asignar`** const {jonhDoe: {edad, correo} } = usuario;
+- **`nuevoNombre`** const {jonhDoe: {edad: e, correo: c} } = usuario;
 
 ## 🔁`Bucles`
 
