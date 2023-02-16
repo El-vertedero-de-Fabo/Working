@@ -20,7 +20,3 @@ Este readme contiene todos los temas que estoy aprendiendo, me di cuenta que apr
 - [📌 Html](/Readmes/Html.md)
 - [🖌️ Css](/Readmes/Css.md)
 
-<h1 align="center"> ⚔️ Otros </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/A5ffIYwJoEpVcMOYiO/giphy.gif"/>
- </div>
