@@ -41,6 +41,10 @@ Es ser o estar basicamente, cuando queremos presentarnos ante otras personas o s
 
 **Ejemplos**
 - **`I am a doctor`** Yo soy un doctor
-
-
-
+- **`You are an engineer`** Tu eres un ingeniero
+- **`He is ill`** Él esta enfermo
+- **`She is a funny person`** Ella es una persona divertida
+- **`It is a bicycle`** Eso es una bicicleta
+- **`We are friends`** Nosotros somos amigos
+- **`You are actors`** Ustedes son actores
+- **`They are investors`** Ellos son inversionistas
