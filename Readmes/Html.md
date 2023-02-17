@@ -12,22 +12,34 @@
 ---
 
 # 👉 `Indice`
-- [🏷️ Etiquetas](#-etiquetas)
+- [🏠 \<html>](#html)
+- [👽 \<head>](#-head)
+- [👔 \<body>](#👔body)
 - [🔗 Links Importantes](#links-importantes)
 - [🐰 Easter Eggs](#easter-eggs)
 
 ---
 
-## 🏷️ `Etiquetas`
+
+## **🏠`<html>`**
 
 - **`<!DOCTYPE html>`** Nos permite decirle al browser que tipo de html vamos a usar
-- **`<html>`** El elemento raiz, todo lo de nuestra pagina, va dentro de esta etiqueta
+-  Es el elemento raiz, todo lo de nuestra pagina, va dentro de esta etiqueta
   - **`<html lang = "es o en">`** Especificamos el idioma español
-- **`<head>`** (cabeza). Vinculamos con archivos externos y podemos cambiar el titulo de la pagina
-- **`<body>`** (Cuerpo) Definimos la estructura de la pagina
-  - **`<h1,2,3,4,5,6 >`** Encabezado
-  - **`<p>`** Parrafo
+
+## **👽 `<head>`**
+
+- Vinculamos con archivos externos y podemos cambiar el titulo de la pagina
+
+## **👔`<body>`**
+
+- Definimos la estructura de la pagina
+- **`<h1,2,3,4,5,6 >`** Encabezado
+- **`<p>`** Parrafo
+- **`<main>`** Le dice al browser en donde va a estar nuestro contenido principal
 - **`<!-- Comentario -->`** Comentarios
+
+
 
 
 ## 🔗Links importantes
