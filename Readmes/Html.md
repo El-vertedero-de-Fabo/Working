@@ -38,10 +38,14 @@
 - **`<p>`** Parrafo
 - **`<main>`** Le dice al browser en donde va a estar nuestro contenido principal
 - **`<!-- Comentario -->`** Comentarios
-- **`<img src='agrego la url' alt='descripcion'>`**  
-  - **`src`** Significa fuente 
-  - **`alt`** Es una alternativa en texto de la imagen
-- **`<a href='url'>`** anchor (enlase)
+- **`<img>`**  
+  - **src:** Significa fuente 
+  - **alt:** Es una alternativa en texto de la imagen
+- **`<a>`** anchor (enlase)
+  - **href="url":** Agregamos la url y listo
+  - **target="_blank":** Abre el link en una nueva pestañá
+  - **rel="noopener noreferrer"** Se agrega por seguridad
+  - Podes moverte dentro de la misma pagina usando #id-cosa, en href. Y nos manda a la etiqueta que contenga la id ingresada
 
 ## 🔗Links importantes
 - [**Browser**](https://definicion.de/browser/)
