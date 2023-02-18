@@ -38,9 +38,10 @@
 - **`<p>`** Parrafo
 - **`<main>`** Le dice al browser en donde va a estar nuestro contenido principal
 - **`<!-- Comentario -->`** Comentarios
-
-
-
+- **`<img src='agrego la url' alt='descripcion'>`**  
+  - **`src`** Significa fuente 
+  - **`alt`** Es una alternativa en texto de la imagen
+- **`<a href='url'>`** anchor (enlase)
 
 ## 🔗Links importantes
 - [**Browser**](https://definicion.de/browser/)
