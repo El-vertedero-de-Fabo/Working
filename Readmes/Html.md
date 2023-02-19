@@ -34,20 +34,22 @@
 
 ## **👔`<body>`**
 
+Todo lo [azul]() son los atributos, para que queden mas legibles
+
 - Definimos la estructura de la pagina
 - **`<h1,2,3,4,5,6 >`** Encabezado
 - **`<p>`** Parrafo
 - **`<main>`** Le dice al browser en donde va a estar nuestro contenido principal
 - **`<!-- Comentario -->`** Comentarios
 - **`<img>`**  
-  - **src:** Significa fuente 
-  - **alt:** Es una alternativa en texto de la imagen
+  - [**src**]() Significa fuente 
+  - [**alt**]() Es una alternativa en texto de la imagen
 - **`<a>`** anchor (enlace)
-  - **href="url":** Agregamos la url y listo, podemos poner un `#` para tener un enlase muerto
-  - **target="_blank":** Abre el link en una nueva pestañá
-  - **rel="noopener noreferrer"** Se agrega por seguridad
+  - [**href="url"**]() Agregamos la url y listo, podemos poner un `#` para tener un enlase muerto
+  - [**target="_blank"**]() Abre el link en una nueva pestañá
+  - [**rel="noopener noreferrer"**]() Se agrega por seguridad
   - Podes moverte dentro de la misma pagina usando #id-cosa, en href. Y nos manda a la etiqueta que contenga la id ingresada
-  - id="link-1"
+  - [**id="link-1"**]()
 - **`<ul>`** Unordered List (Lista no ordenada)
 - **`<ol>`** Order List (Lista ordenada)
   - **`<li>`** List Item (Cada elemento de la lista)
