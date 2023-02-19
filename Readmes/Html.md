@@ -67,8 +67,8 @@
   - **required**: Hacemos que el campo sea obligatorio
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - **for="id-delInput"** 
-- **`<button>`**
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
+- **`<button>`**
   - **type="submit"**: Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 
 
