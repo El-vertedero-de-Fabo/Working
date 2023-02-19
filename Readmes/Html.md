@@ -61,11 +61,11 @@
 - **`<form>`**
   - [**action="enviar-respuesta"**](#)
 - **`<input>`** Sirve para obtener una respuesta del usuario
-  - **type="text"** Solicita un texto al usuario
-  - **placeholder="URL de un gato"**: es como la guia de ejemplo en el input
-  - **type=""radio"** Creamos un boton de opción
-  - **required**: Hacemos que el campo sea obligatorio
-  - **name="interior-exterior"**
+  - [**type="text"**]() Solicita un texto al usuario
+  - [**placeholder="URL de un gato"**]() es como la guia de ejemplo en el input
+  - [**type=""radio"**]() Creamos un boton de opción
+  - [**required**]() Hacemos que el campo sea obligatorio
+  - [**name="interior-exterior"**]()
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - **for="id-delInput"**: Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
