@@ -59,8 +59,14 @@
 ## 📝 Formularios
 
 - **`<form>`**
-- **`<input>`**
+  - **action="enviar-respuesta"**
+- **`<input>`** Sirve para obtener una respuesta del usuario
+  - **type="text"** Solicita un texto al usuario
+  - **placeholder="URL de un gato"**: es como la guia de ejemplo en el input
+  - **type=""radio"**
+  - **required**: Hacemos que el campo sea obligatorio
 - **`<button>`**
+  - **type="submit"**: Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 
 
 
@@ -71,4 +77,4 @@
 
 ## 🐰Easter eggs
 
-Comentas una seccion entera usando `Ctrl + /`
+Comentas una sección entera usando `Ctrl + /`
