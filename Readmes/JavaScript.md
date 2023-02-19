@@ -41,11 +41,11 @@
 
 ## 📈`Tipos de Datos`
 
-- **undefined :** Cuando no existe un valor asignado
-- **null :** Para inicializar los objetos
-- **boolean :** True | false
-- **string :** "Un string de toda la vida"
-- **symbol :** Un símbolo es único. Esto quiere decir que, cada vez que creamos uno nuevo, es completamente diferente y no se compara con ningún otro símbolo, incluso si se crean a partir del mismo valor. 
+- [**undefined**]() Cuando no existe un valor asignado
+- [**null**]() Para inicializar los objetos
+- [**boolean**]() True | false
+- [**string**]() "Un string de toda la vida"
+- [**symbol**]() Un símbolo es único. Esto quiere decir que, cada vez que creamos uno nuevo, es completamente diferente y no se compara con ningún otro símbolo, incluso si se crean a partir del mismo valor. 
     <br >
     ```js
     const mySymbol = Symbol()
@@ -56,8 +56,8 @@
     // incluso con la misma descripción
     Symbol('a') === Symbol('a') // false 
     ```
-- **number :** numeros de toda la vida
-- **object :** para objetos :0
+- [**number**]() numeros de toda la vida
+- [**object**]() para objetos :0
 
 ## 🖱️`Variables`
 
