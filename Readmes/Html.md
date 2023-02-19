@@ -63,9 +63,12 @@
 - **`<input>`** Sirve para obtener una respuesta del usuario
   - **type="text"** Solicita un texto al usuario
   - **placeholder="URL de un gato"**: es como la guia de ejemplo en el input
-  - **type=""radio"**
+  - **type=""radio"** Creamos un boton de opción
   - **required**: Hacemos que el campo sea obligatorio
+- **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
+  - **for="id-delInput"** 
 - **`<button>`**
+- **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
   - **type="submit"**: Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 
 
@@ -73,7 +76,7 @@
 ## 🔗Links importantes
 - [**Browser**](https://definicion.de/browser/)
 - [**Documentación**](https://developer.mozilla.org/es/docs/Web/HTML/Element/div)
-
+- [**Curso de utilidad**](https://www.youtube.com/watch?v=XqFR2lqBYPs)
 
 ## 🐰Easter eggs
 
