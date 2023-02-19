@@ -69,10 +69,10 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
   - [**required**]() Hacemos que el campo sea obligatorio
   - [**name="interior-exterior"**]()
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
-  - **for="id-delInput"**: Nos permite vincular aun mas las etiquetas
+  - [**for="id-delInput"**]() Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
 - **`<button>`**
-  - **type="submit"**: Enviar y el destino esta en el atributo action de la etiqueta `<form>`
+  - [**type="submit"**]() Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 
 
 
@@ -83,4 +83,4 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
 
 ## 🐰Easter eggs
 
-Comentas una sección entera usando `Ctrl + /`
+Comentas una sección entera usando [`Ctrl + /`]()
