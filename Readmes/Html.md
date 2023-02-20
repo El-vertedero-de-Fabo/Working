@@ -30,7 +30,11 @@
 
 ## **👽 `<head>`**
 
-- Vinculamos con archivos externos y podemos cambiar el titulo de la pagina
+Vinculamos con archivos externos y podemos cambiar el titulo de la pagina. Contiene lo que solemos llamar como metadata, los elementos que no vemos pero que son esenciales para que la pagina funcione correctamente.
+- `<title>` Titulo de la pagina
+- `<>`
+
+
 
 ## **👔`<body>`**
 
@@ -58,6 +62,8 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
 - **`<s>`** Strikethrough/tachar
 - **`<hr>`** Horizontal Rule/Para separar, es equivalente al --- en markdown
 - **`<div>`** Nos permite agrupar contenido bajo un mismo contenedor
+- **`<footer>`** Va despues del main, es el pie de pagina
+- **`<small>`** Nos permite hacer que el texto sea mas pequeño
 
 ## 📝 Formularios
 
