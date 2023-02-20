@@ -32,7 +32,9 @@
 
 Vinculamos con archivos externos y podemos cambiar el titulo de la pagina. Contiene lo que solemos llamar como metadata, los elementos que no vemos pero que son esenciales para que la pagina funcione correctamente.
 - `<title>` Titulo de la pagina
-- `<>`
+- `<link>` Para vincular otros archivos
+  - [**href="style.css"**]()
+  - [**rel="stylesheet"**]() (Relationship) denomina una relación con el documento actual, en este caso lo marcamos como hoja de estilos `stylesheet`
 
 
 
