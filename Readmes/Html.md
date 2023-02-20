@@ -49,7 +49,7 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
   - [**target="_blank"**]() Abre el link en una nueva pestañá
   - [**rel="noopener noreferrer"**]() Se agrega por seguridad
   - Podes moverte dentro de la misma pagina usando #id-cosa, en href. Y nos manda a la etiqueta que contenga la id ingresada
-  - [**id="link-1"**]()
+  - [**id="link-1"**]() Esto lo agregamos por si queremos hacer referencia a esta etiqueta en algún otro lado
 - **`<ul>`** Unordered List (Lista no ordenada)
 - **`<ol>`** Order List (Lista ordenada)
   - **`<li>`** List Item (Cada elemento de la lista)
@@ -67,7 +67,7 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
   - [**placeholder="URL de un gato"**]() es como la guia de ejemplo en el input
   - [**type=""radio"**]() Creamos un boton de opción
   - [**required**]() Hacemos que el campo sea obligatorio
-  - [**name="interior-exterior"**]()
+  - [**name="interior-exterior"**]() Hacemos que se pueda elegir uno de los dos elementos, el otro elemento tambien tiene que tener el mismo atributo
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - [**for="id-delInput"**]() Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
