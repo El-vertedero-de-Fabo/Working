@@ -57,6 +57,7 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
 - **`<em>`** Texto en cursiva
 - **`<s>`** Strikethrough/tachar
 - **`<hr>`** Horizontal Rule/Para separar, es equivalente al --- en markdown
+- **`<div>`** Nos permite agrupar contenido bajo un mismo contenedor
 
 ## 📝 Formularios
 
@@ -68,7 +69,11 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
   - [**type=""radio"**]() Creamos un boton de opción
   - [**required**]() Hacemos que el campo sea obligatorio
   - [**name="interior-exterior"**]() Hacemos que se pueda elegir uno de los dos elementos, el otro elemento tambien tiene que tener el mismo atributo
-  - [**type="checkbox"**]()
+  - [**type="checkbox"**]() 
+  - [**name="personalidad"**]() si queremos tener un grupo de opciones, le agregamos este atributo a todas las etiquetas que querramos
+  - [**checked**]() (marcado) nos permite marcar obciones por defecto 
+  - [**value="El valor a enviar, podria ser el id de la etiqueta"**]() este atributo solo se utiliza con input de `radio`
+  - [**value="El valor a enviar, podria ser el id de la etiqueta"**]() este atributo solo se utiliza con input de `radio` y `checkbox`
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - [**for="id-delInput"**]() Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
