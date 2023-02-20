@@ -68,12 +68,13 @@ Todo lo [azul]() son los atributos, para que queden mas legibles
   - [**type=""radio"**]() Creamos un boton de opción
   - [**required**]() Hacemos que el campo sea obligatorio
   - [**name="interior-exterior"**]() Hacemos que se pueda elegir uno de los dos elementos, el otro elemento tambien tiene que tener el mismo atributo
+  - [**type="checkbox"**]()
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - [**for="id-delInput"**]() Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
 - **`<button>`**
   - [**type="submit"**]() Enviar y el destino esta en el atributo action de la etiqueta `<form>`
-
+- `<br>` (Break) Romper. Las imagenes y las listas se presentan en lineas separadas, pero no es el caso para todos los elementos, si queremos hacer un salto de linea tenemos que usar esta etiqueta
 
 
 ## 🔗Links importantes
