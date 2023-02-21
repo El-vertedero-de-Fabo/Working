@@ -4,7 +4,7 @@
 
 # 🎮`JavaScript`
 
-  <img src="https://media.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif"/>
+  <img src="https://media.giphy.com/media/cQ46lb87OqVucbYCOx/giphy.gif"/>
  </div>
 
 ---
