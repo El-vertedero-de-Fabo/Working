@@ -83,6 +83,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**name="personalidad"**](#) si queremos tener un grupo de opciones, le agregamos este atributo a todas las etiquetas que querramos
   - [**checked**](#) (marcado) nos permite marcar obciones por defecto 
   - [**value="El valor a enviar, podria ser el id de la etiqueta"**](#) este atributo solo se utiliza con input de `radio` y `checkbox`
+  - [**type="password"**]() Para las contraseñas
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - [**for="id-delInput"**](#) Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
@@ -95,7 +96,9 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**src**](#) Significa fuente 
   - [**alt**](#) Es una alternativa en texto de la imagen
 - **`<video>`**
+- **`<audio>`**
   - [**src**](#) Significa fuente
+  - [**controls**]()
 
 
 ## 🔗Links importantes
