@@ -66,8 +66,8 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<div>`** Nos permite agrupar contenido bajo un mismo contenedor
 - **`<footer>`** Va despues del main, es el pie de pagina
 - **`<small>`** <small>Nos permite hacer que el texto sea mas pequeño</small>
-- **`<b>`** <b>negrita<b>
-- **`<i>`** <i>Italica<i>
+- **`<b>`** <b>negrita</b>
+- **`<i>`** <i>Italica</i>
 - **`<strike>`** <strike> Para tachar </strike>
 
 
