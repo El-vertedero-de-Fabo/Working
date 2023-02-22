@@ -59,13 +59,17 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<ul>`** Unordered List (Lista no ordenada)
 - **`<ol>`** Order List (Lista ordenada)
   - **`<li>`** List Item (Cada elemento de la lista)
-- **`<strong>`** Para marcar el texto en negrita
+- **`<strong>`** <strong>Para marcar el texto en negrita</strong>
 - **`<em>`** Texto en cursiva
 - **`<s>`** Strikethrough/tachar
 - **`<hr>`** Horizontal Rule/Para separar, es equivalente al --- en markdown
 - **`<div>`** Nos permite agrupar contenido bajo un mismo contenedor
 - **`<footer>`** Va despues del main, es el pie de pagina
-- **`<small>`** Nos permite hacer que el texto sea mas pequeño
+- **`<small>`** <small>Nos permite hacer que el texto sea mas pequeño</small>
+- **`<b>`** <b>negrita<b>
+- **`<i>`** <i>Italica<i>
+- **`<strike>`** <strike> Para tachar </strike>
+
 
 ## 📝 Formularios
 
