@@ -47,9 +47,6 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<p>`** Parrafo
 - **`<main>`** Le dice al browser en donde va a estar nuestro contenido principal
 - **`<!-- Comentario -->`** Comentarios
-- **`<img>`**  
-  - [**src**](#) Significa fuente 
-  - [**alt**](#) Es una alternativa en texto de la imagen
 - **`<a>`** anchor (enlace)
   - [**href="url"**](#) Agregamos la url y listo, podemos poner un `#` para tener un enlase muerto
   - [**target="_blank"**](#) Abre el link en una nueva pestañá
@@ -71,7 +68,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<strike>`** <strike> Para tachar </strike>
 
 
-## 📝 Formularios
+## 📝 **`Formularios`**
 
 - **`<form>`**
   - [**action="enviar-respuesta"**](#)
@@ -91,6 +88,11 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<button>`**
   - [**type="submit"**](#) Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 - `<br>` (Break) Romper. Las imagenes y las listas se presentan en lineas separadas, pero no es el caso para todos los elementos, si queremos hacer un salto de linea tenemos que usar esta etiqueta
+
+## 🎵 **`Multimedia`**
+- **`<img>`**  
+  - [**src**](#) Significa fuente 
+  - [**alt**](#) Es una alternativa en texto de la imagen
 
 
 ## 🔗Links importantes
