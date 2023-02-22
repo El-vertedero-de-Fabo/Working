@@ -13,9 +13,10 @@
 
 # 👉 `Indice`
 - [🏠 \<html>](#html)
-- [👽 \<head>](#-head)
-- [👔 \<body>](#👔body)
-- [📝 Formularios](#-formularios)
+- [👽 \<head>](#head)
+- [👔 \<body>](#body)
+- [📝 Formularios](#formularios)
+- [🎵 Multimedia](#multimedia)
 - [🔗 Links Importantes](#links-importantes)
 - [🐰 Easter Eggs](#easter-eggs)
 
@@ -28,7 +29,7 @@
 -  Es el elemento raiz, todo lo de nuestra pagina, va dentro de esta etiqueta
   - **`<html lang = "es o en">`** Especificamos el idioma español
 
-## **👽 `<head>`**
+## **👽`<head>`**
 
 Vinculamos con archivos externos y podemos cambiar el titulo de la pagina. Contiene lo que solemos llamar como metadata, los elementos que no vemos pero que son esenciales para que la pagina funcione correctamente.
 - `<title>` Titulo de la pagina
@@ -68,7 +69,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<strike>`** <strike> Para tachar </strike>
 
 
-## 📝 **`Formularios`**
+## 📝**`Formularios`**
 
 - **`<form>`**
   - [**action="enviar-respuesta"**](#)
@@ -89,10 +90,12 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**type="submit"**](#) Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 - `<br>` (Break) Romper. Las imagenes y las listas se presentan en lineas separadas, pero no es el caso para todos los elementos, si queremos hacer un salto de linea tenemos que usar esta etiqueta
 
-## 🎵 **`Multimedia`**
+## 🎵**`Multimedia`**
 - **`<img>`**  
   - [**src**](#) Significa fuente 
   - [**alt**](#) Es una alternativa en texto de la imagen
+- **`<video>`**
+  - [**src**](#) Significa fuente
 
 
 ## 🔗Links importantes
