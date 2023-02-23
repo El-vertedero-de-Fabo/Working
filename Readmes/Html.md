@@ -84,6 +84,14 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**checked**](#) (marcado) nos permite marcar obciones por defecto 
   - [**value="El valor a enviar, podria ser el id de la etiqueta"**](#) este atributo solo se utiliza con input de `radio` y `checkbox`
   - [**type="password"**]() Para las contraseñas
+  - [**type="number"**]()
+  - [**type="email"**]()
+  - [**type="color"**]()
+  - [**type="range" min="1" max="1000"**]()
+  - [**type="date"**]()
+  - [**type="time"**]()
+  - [**type="button" value="Boton"**]()
+  - [**type="submit"**]() para enviar los datos
 - **`<lavel>`** Como el imput no permite seleccionar el texto, el lavel nos permite que el texto tambien funcione como botón
   - [**for="id-delInput"**](#) Nos permite vincular aun mas las etiquetas
 - **`Ejemplo:`** \<label for="exterior"> \<input id="exterior" type="radio"> Exterior\</label>
