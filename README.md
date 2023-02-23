@@ -16,8 +16,8 @@ Este readme contiene todos los temas que estoy aprendiendo, me di cuenta que apr
 
 ## 📖 Indice
 
-- [🎮 JavaScript](/JavaScript/README.md)
-- [📌 Html](/Readmes/Html.md)
+- [🎮 JavaScript](/JavaScript/)
+- [📌 Html](/Html/)
 - [🖌️ Css](/Readmes/Css.md)
 - [🌍 Ingles](/Readmes/Ingles.md)
 
