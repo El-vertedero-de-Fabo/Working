@@ -106,7 +106,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<video>`**
 - **`<audio>`**
   - [**src**](#) Significa fuente
-  - [**controls**]()
+  - [**controls**]() Nos permite tener los botones para manejar el video/audio
 
 
 ## 🔗Links importantes
