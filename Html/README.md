@@ -67,8 +67,8 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<b>`** <b>negrita</b>
 - **`<i>`** <i>Italica</i>
 - **`<strike>`** <strike> Para tachar </strike>
-
-
+- **`<textarea>`** Es como el input pero nos permite modificar el tamaño a mano 
+  - **readonly=""** Solo en modo de lectura (no podemos escribir dentro)
 ## **📝`Formularios`**
 
 - **`<form>`**
@@ -82,7 +82,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**type="checkbox"**](#) 
   - [**name="personalidad"**](#) si queremos tener un grupo de opciones, le agregamos este atributo a todas las etiquetas que querramos
   - [**checked**](#) (marcado) nos permite marcar obciones por defecto 
-  - [**value="El valor a enviar, podria ser el id de la etiqueta"**](#) este atributo solo se utiliza con input de `radio` y `checkbox`
+  - [**value="El valor a enviar, podria ser el id de la etiqueta"**](#) 
   - [**type="password"**]() Para las contraseñas
   - [**type="number"**]()
   - [**type="email"**]()
