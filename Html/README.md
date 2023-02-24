@@ -36,8 +36,12 @@ Vinculamos con archivos externos y podemos cambiar el titulo de la pagina. Conti
 - `<link>` Para vincular otros archivos
   - [**href="style.css"**](#)
   - [**rel="stylesheet"**](#) (Relationship) denomina una relación con el documento actual, en este caso lo marcamos como hoja de estilos `stylesheet`
-
-
+- `<meta>`
+  - **[charset="utf-8"]()** Para poder usar acentos
+  - **[name="keywords"]() content="harina, leche, huevo"** Serian las palabras clave para nuestra web
+  - **[name="description"]() content"Una tienda de alimentos dietetica por ejemplo"** Una descripción de nuestra web basicamente
+  - **[name="author" content="Fabian Martinez"]()**
+  - **[name="copyright" content="Facebook Inc"]()** En caso de que nuestra empresa este registrada
 
 ## **👔`<body>`**
 
@@ -67,8 +71,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<b>`** <b>negrita</b>
 - **`<i>`** <i>Italica</i>
 - **`<strike>`** <strike> Para tachar </strike>
-- **`<textarea>`** Es como el input pero nos permite modificar el tamaño a mano 
-  - **readonly=""** Solo en modo de lectura (no podemos escribir dentro)
+
 ## **📝`Formularios`**
 
 - **`<form>`**
@@ -98,6 +101,8 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<button>`**
   - [**type="submit"**](#) Enviar y el destino esta en el atributo action de la etiqueta `<form>`
 - `<br>` (Break) Romper. Las imagenes y las listas se presentan en lineas separadas, pero no es el caso para todos los elementos, si queremos hacer un salto de linea tenemos que usar esta etiqueta
+- **`<textarea>`** Es como el input pero nos permite modificar el tamaño a mano 
+  - **[readonly=""]()** Solo en modo de lectura (no podemos escribir dentro)
 
 ## **🎵`Multimedia`**
 - **`<img>`**  
