@@ -22,6 +22,9 @@
 
 ---
 
+## Estructura 
+
+![image](https://user-images.githubusercontent.com/55964635/221382093-0788fcc1-dbac-49af-8291-fb240f5108ef.png)
 
 ## **🏠`<html>`**
 
