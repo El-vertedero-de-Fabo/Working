@@ -17,7 +17,7 @@
 - [👔 \<body>](#body)
   - [📝 Formularios](#formularios)
   - [🎵 Multimedia](#multimedia)
-  - [📋 Letras](#-palabra)
+  - [📋 Palabras](#-palabra)
 - [🔗 Links Importantes](#links-importantes)
 - [🐰 Easter Eggs](#easter-eggs)
 
