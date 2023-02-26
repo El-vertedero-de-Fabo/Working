@@ -31,6 +31,11 @@
 <img width="500px" src="https://user-images.githubusercontent.com/55964635/221389043-4a08a7e0-2604-4bd6-8e77-fdbdd183aa14.png" alt="" />
 </div>
 
+- **`<header>`** Seria lo primero que sale en la pagina
+  - **`<nav>`** Va dentro del header, serian todos los links/paginas que tenemos arriba del todo. Puede ser contactos, proyectos, ect, dentro del nav, usamos listas desordenadas `<ul>`
+- **`<article>`**
+- **`<section>`**
+- **`<aside>`**
 
 ## **🏠`<html>`**
 
