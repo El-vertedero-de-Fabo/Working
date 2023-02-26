@@ -15,8 +15,9 @@
 - [🏠 \<html>](#html)
 - [👽 \<head>](#head)
 - [👔 \<body>](#body)
-- [📝 Formularios](#formularios)
-- [🎵 Multimedia](#multimedia)
+  - [📝 Formularios](#formularios)
+  - [🎵 Multimedia](#multimedia)
+  - [📋 Letras](#-letras)
 - [🔗 Links Importantes](#links-importantes)
 - [🐰 Easter Eggs](#easter-eggs)
 
@@ -132,6 +133,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**src**](#) Significa fuente
   - [**controls**]() Nos permite tener los botones para manejar el video/audio
 
+## 📋 **`Letras`**
 
 ## 🔗Links importantes
 - [**Browser**](https://definicion.de/browser/)
