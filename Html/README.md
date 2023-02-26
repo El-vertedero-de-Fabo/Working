@@ -24,7 +24,9 @@
 
 ## Estructura 
 
-<img width="500px" src="https://user-images.githubusercontent.com/55964635/221382093-0788fcc1-dbac-49af-8291-fb240f5108ef.png" alt="" />
+<div align="center" >
+<img width="500px" src="https://user-images.githubusercontent.com/55964635/221389043-4a08a7e0-2604-4bd6-8e77-fdbdd183aa14.png" alt="" />
+</div>
 
 
 ## **🏠`<html>`**
