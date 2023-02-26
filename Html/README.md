@@ -87,7 +87,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 
 - **`<form>`**
   - [**action="enviar-respuesta"**](#)
-  - [**method="get"**]()
+  - [**method="get"**]()  los datos del formulario son adjuntados a la URI del atributo action
 - **`<input>`** Sirve para obtener una respuesta del usuario
   - [**type="text"**](#) Solicita un texto al usuario
   - [**placeholder="URL de un gato"**](#) es como la guia de ejemplo en el input
