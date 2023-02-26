@@ -12,8 +12,7 @@
 
 ## Ejercicio 1
 
-
-![image](https://user-images.githubusercontent.com/55964635/221426043-db5f39c5-a6e0-474a-8776-bd2b040bd5b3.png)
+![image](https://user-images.githubusercontent.com/55964635/221426209-738c6b8c-973b-4aec-881b-0bf22b6d540b.png)
 
 ```html
 <!DOCTYPE html>
@@ -45,7 +44,7 @@
 
 ## Ejercicio 2
 
-![image](https://user-images.githubusercontent.com/55964635/221426098-cb4bbc48-db1f-4634-be30-ef8baa28d6be.png)
+![image](https://user-images.githubusercontent.com/55964635/221426251-61d358a4-210e-437d-b52a-09d3f931afdd.png)
 
 ```html
 <!DOCTYPE html>
@@ -89,6 +88,9 @@
 
 ## Ejercicio 3
 
+![image](https://user-images.githubusercontent.com/55964635/221426452-dcc43d96-3ad8-48c3-8453-b08507854d53.png)
+
+
 ```html
 <!DOCTYPE html>
 <html lang=es>
@@ -113,6 +115,9 @@
 ```
 
 ## Ejercicio 4
+
+![image](https://user-images.githubusercontent.com/55964635/221426481-35608e51-69e3-4996-b503-315c8a01558b.png)
+
 
 ```html
 <!DOCTYPE html>
@@ -146,6 +151,8 @@
 ```
 
 ## Ejercicio 5
+
+![image](https://user-images.githubusercontent.com/55964635/221426501-760c6254-86a6-4f1d-b7ea-f62b28039cda.png)
 
 ```html
 <!DOCTYPE html>
@@ -185,6 +192,8 @@
 ```
 
 ## Ejercicio 6
+
+![image](https://user-images.githubusercontent.com/55964635/221426599-492ab14e-f10d-4b9b-84d9-aad6e34c122a.png)
 
 ```html
 <!DOCTYPE html>
