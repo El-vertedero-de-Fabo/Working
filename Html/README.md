@@ -87,6 +87,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 
 - **`<form>`**
   - [**action="enviar-respuesta"**](#)
+  - [**method="get"**]()
 - **`<input>`** Sirve para obtener una respuesta del usuario
   - [**type="text"**](#) Solicita un texto al usuario
   - [**placeholder="URL de un gato"**](#) es como la guia de ejemplo en el input
@@ -94,8 +95,8 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**required**](#) Hacemos que el campo sea obligatorio
   - [**name="interior-exterior"**](#) Hacemos que se pueda elegir uno de los dos elementos, el otro elemento tambien tiene que tener el mismo atributo
   - [**type="checkbox"**](#) 
-  - [**name="personalidad"**](#) si queremos tener un grupo de opciones, le agregamos este atributo a todas las etiquetas que querramos
-  - [**checked**](#) (marcado) nos permite marcar obciones por defecto 
+  - [**name="personalidad"**](#) IMPORTANTE Si queremos mandar los datos, todas las etiquetas deben tener un valor descriptivo en name. Si queremos tener un grupo de opciones, le agregamos este atributo a todas las etiquetas que querramos
+  - [**checked**](#) (marcado) nos permite marcar obciones por defecto
   - [**value="El valor a enviar, podria ser el id de la etiqueta"**](#) 
   - [**type="password"**]() Para las contraseñas
   - [**type="number"**]()
