@@ -12,6 +12,9 @@
 
 ## Ejercicio 1
 
+
+![image](https://user-images.githubusercontent.com/55964635/221426043-db5f39c5-a6e0-474a-8776-bd2b040bd5b3.png)
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -41,6 +44,8 @@
 ```
 
 ## Ejercicio 2
+
+![image](https://user-images.githubusercontent.com/55964635/221426098-cb4bbc48-db1f-4634-be30-ef8baa28d6be.png)
 
 ```html
 <!DOCTYPE html>
