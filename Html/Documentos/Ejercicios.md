@@ -224,6 +224,8 @@
 
 ### Ejercicio 7
 
+![image](https://user-images.githubusercontent.com/55964635/221444185-e9bc7370-b88e-4ec5-a032-e0cdc8ee06f9.png)
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -273,6 +275,8 @@
 ```
 
 ### Ejercicio 8
+
+![image](https://user-images.githubusercontent.com/55964635/221444621-cffe4062-cd62-4c31-93a4-5b972558eb50.png)
 
 ```html
 <!DOCTYPE html>
