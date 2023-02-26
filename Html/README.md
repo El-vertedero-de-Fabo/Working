@@ -41,11 +41,11 @@ Vinculamos con archivos externos y podemos cambiar el titulo de la pagina. Conti
   - [**href="style.css"**](#)
   - [**rel="stylesheet"**](#) (Relationship) denomina una relación con el documento actual, en este caso lo marcamos como hoja de estilos `stylesheet`
 - `<meta>`
-  - **[charset="utf-8"]()** Para poder usar acentos
-  - **[name="keywords" content="harina, leche, huevo"**]() Serian las palabras clave para nuestra web
-  - **[name="description" content"Una tienda de alimentos dietetica por ejemplo"**]() Una descripción de nuestra web basicamente
-  - **[name="author" content="Fabian Martinez"]()**
-  - **[name="copyright" content="Facebook Inc"]()** En caso de que nuestra empresa este registrada
+  - [**charset="utf-8"**]() Para poder usar acentos
+  - [**name="keywords" content="harina, leche, huevo"**]() Serian las palabras clave para nuestra web
+  - [**name="description" content"Una tienda de alimentos dietetica por ejemplo"**]() Una descripción de nuestra web basicamente
+  - [**name="author" content="Fabian Martinez"**]()
+  - [**name="copyright" content="Facebook Inc"**]() En caso de que nuestra empresa este registrada
 
 ## **👔`<body>`**
 
