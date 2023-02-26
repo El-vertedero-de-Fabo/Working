@@ -34,8 +34,8 @@
 - **`<header>`** Seria lo primero que sale en la pagina
   - **`<nav>`** Va dentro del header, serian todos los links/paginas que tenemos arriba del todo. Puede ser contactos, proyectos, ect, dentro del nav, usamos listas desordenadas `<ul>`
 - **`<article>`**
-- **`<section>`**
-- **`<aside>`**
+- **`<section>`** Nos permite separar una web en secciones :0
+- **`<aside>`** Pueden ser enlaces a otras noticias, otros blogs, etc
 
 ## **🏠`<html>`**
 
@@ -48,8 +48,8 @@
 Vinculamos con archivos externos y podemos cambiar el titulo de la pagina. Contiene lo que solemos llamar como metadata, los elementos que no vemos pero que son esenciales para que la pagina funcione correctamente.
 - `<title>` Titulo de la pagina
 - `<link>` Para vincular otros archivos
-  - [**href="style.css"**](#)
-  - [**rel="stylesheet"**](#) (Relationship) denomina una relación con el documento actual, en este caso lo marcamos como hoja de estilos `stylesheet`
+  - [**rel="stylesheet" href="style.css"**](#) (Relationship) denomina una relación con el documento actual, en este caso lo marcamos como hoja de estilos.
+  - [**link rel="icon" href="fabo.ico"**]() ponemos el icono a nuestra web
 - `<meta>`
   - [**charset="utf-8"**]() Para poder usar acentos
   - [**name="keywords" content="harina, leche, huevo"**]() Serian las palabras clave para nuestra web
@@ -85,6 +85,11 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<b>`** <b>negrita</b>
 - **`<i>`** <i>Italica</i>
 - **`<strike>`** <strike> Para tachar </strike>
+- **`<table>`** Genero una tabla
+  - **`<tr>`** definimos las filas, contiene **`<td>`**
+  - **`<td>`** Ponemos los nombres de las columnas
+- **`<center>`** centra :0
+
 
 ## **📝`Formularios`**
 
