@@ -17,7 +17,7 @@
 - [👔 \<body>](#body)
   - [📝 Formularios](#formularios)
   - [🎵 Multimedia](#multimedia)
-  - [📋 Letras](#-letras)
+  - [📋 Letras](#-palabra)
 - [🔗 Links Importantes](#links-importantes)
 - [🐰 Easter Eggs](#easter-eggs)
 
@@ -67,25 +67,12 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<p>`** Parrafo
 - **`<main>`** Le dice al browser en donde va a estar nuestro contenido principal
 - **`<!-- Comentario -->`** Comentarios
-- **`<a>`** anchor (enlace)
-  - [**href="url"**](#) Agregamos la url y listo, podemos poner un `#` para tener un enlase muerto
-  - [**target="_blank"**](#) Abre el link en una nueva pestañá
-  - [**rel="noopener noreferrer"**](#) Se agrega por seguridad
-  - Podes moverte dentro de la misma pagina usando #id-cosa, en href. Y nos manda a la etiqueta que contenga la id ingresada
-  - [**id="link-1"**](#) Esto lo agregamos por si queremos hacer referencia a esta etiqueta en algún otro lado
 - **`<ul>`** Unordered List (Lista no ordenada)
 - **`<ol>`** Order List (Lista ordenada)
   - **`<li>`** List Item (Cada elemento de la lista)
-- **`<strong>`** <strong>Para marcar el texto en negrita</strong>
-- **`<em>`** Texto en cursiva
-- **`<s>`** Strikethrough/tachar
 - **`<hr>`** Horizontal Rule/Para separar, es equivalente al --- en markdown
 - **`<div>`** Nos permite agrupar contenido bajo un mismo contenedor
 - **`<footer>`** Va despues del main, es el pie de pagina
-- **`<small>`** <small>Nos permite hacer que el texto sea mas pequeño</small>
-- **`<b>`** <b>negrita</b>
-- **`<i>`** <i>Italica</i>
-- **`<strike>`** <strike> Para tachar </strike>
 - **`<table>`** Genero una tabla
   - **`<tr>`** definimos las filas, contiene **`<td>`**
   - **`<td>`** Ponemos los nombres de las columnas
@@ -133,7 +120,20 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - [**src**](#) Significa fuente
   - [**controls**]() Nos permite tener los botones para manejar el video/audio
 
-## 📋 **`Letras`**
+## 📋 **`Palabra`**
+- **`<a>`** anchor (enlace)
+  - [**href="url"**](#) Agregamos la url y listo, podemos poner un `#` para tener un enlace muerto
+  - [**target="_blank"**](#) Abre el link en una nueva pestaña
+  - [**rel="noopener noreferrer"**](#) Se agrega por seguridad
+  - Podes moverte dentro de la misma pagina usando #id-cosa, en href. Y nos manda a la etiqueta que contenga la id ingresada
+  - [**id="link-1"**](#) Esto lo agregamos por si queremos hacer referencia a esta etiqueta en algún otro lado
+- **`<small>`** <small>Nos permite hacer que el texto sea mas pequeño</small>
+- **`<b>`** <b>negrita</b>
+- **`<i>`** <i>Italica</i>
+- **`<strike>`** <strike> Para tachar </strike>
+- **`<strong>`** <strong>Para marcar el texto en negrita</strong>
+- **`<em>`** <em> Texto en cursiva </em>
+- **`<s>`** <s>Strikethrough/tachar </s>
 
 ## 🔗Links importantes
 - [**Browser**](https://definicion.de/browser/)
