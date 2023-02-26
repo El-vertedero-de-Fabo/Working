@@ -78,6 +78,9 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
   - **`<tr>`** definimos las filas, contiene **`<td>`**
   - **`<td>`** Ponemos los nombres de las columnas
 - **`<center>`** centra :0
+- **`<dl>`** (descriptive list) Representa una lista descriptiva 
+  - **`<dt>`** (term in a description) Seria el titulo/elemento
+  - **`<dd>`** Detalles de la descripción
 
 
 ## **📝`Formularios`**
