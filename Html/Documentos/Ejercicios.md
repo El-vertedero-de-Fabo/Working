@@ -88,6 +88,9 @@
 
 ## Ejercicio 3
 
+![image](https://user-images.githubusercontent.com/55964635/221426452-dcc43d96-3ad8-48c3-8453-b08507854d53.png)
+
+
 ```html
 <!DOCTYPE html>
 <html lang=es>
@@ -112,6 +115,9 @@
 ```
 
 ## Ejercicio 4
+
+![image](https://user-images.githubusercontent.com/55964635/221426481-35608e51-69e3-4996-b503-315c8a01558b.png)
+
 
 ```html
 <!DOCTYPE html>
@@ -145,6 +151,8 @@
 ```
 
 ## Ejercicio 5
+
+![image](https://user-images.githubusercontent.com/55964635/221426501-760c6254-86a6-4f1d-b7ea-f62b28039cda.png)
 
 ```html
 <!DOCTYPE html>
@@ -184,6 +192,8 @@
 ```
 
 ## Ejercicio 6
+
+![image](https://user-images.githubusercontent.com/55964635/221426599-492ab14e-f10d-4b9b-84d9-aad6e34c122a.png)
 
 ```html
 <!DOCTYPE html>
