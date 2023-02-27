@@ -95,10 +95,12 @@
 
 </details>
 
+<div align="center">
 
-## Ejercicio 3
+  ## Ejercicio 3
 
-![image](https://user-images.githubusercontent.com/55964635/221426452-dcc43d96-3ad8-48c3-8453-b08507854d53.png)
+  <img src="../Imagenes/3.png"/>
+</div>
 
 <details><summary>Codigo HTML</summary>
 
@@ -126,9 +128,13 @@
 
 </details>
 
-## Ejercicio 4
 
-![image](https://user-images.githubusercontent.com/55964635/221426481-35608e51-69e3-4996-b503-315c8a01558b.png)
+<div align="center">
+
+  ## Ejercicio 4
+
+  <img src="../Imagenes/4.png"/>
+</div>
 
 <details><summary>Codigo HTML</summary>
 
