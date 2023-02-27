@@ -56,7 +56,6 @@
 ![image](https://user-images.githubusercontent.com/55964635/221426251-61d358a4-210e-437d-b52a-09d3f931afdd.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -89,12 +88,14 @@
 </html>
 ```
 
+</details>
+
+
 ## Ejercicio 3
 
 ![image](https://user-images.githubusercontent.com/55964635/221426452-dcc43d96-3ad8-48c3-8453-b08507854d53.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -118,12 +119,13 @@
 </html>
 ```
 
+</details>
+
 ## Ejercicio 4
 
 ![image](https://user-images.githubusercontent.com/55964635/221426481-35608e51-69e3-4996-b503-315c8a01558b.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -154,12 +156,13 @@
 </html>
 ```
 
+</details>
+
 ## Ejercicio 5
 
 ![image](https://user-images.githubusercontent.com/55964635/221426501-760c6254-86a6-4f1d-b7ea-f62b28039cda.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -198,12 +201,14 @@
 </html>
 ```
 
+</details>
+
+
 ## Ejercicio 6
 
 ![image](https://user-images.githubusercontent.com/55964635/221426599-492ab14e-f10d-4b9b-84d9-aad6e34c122a.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -243,12 +248,14 @@
 </html>
 ```
 
+</details>
+
+
 ### Ejercicio 7
 
 ![image](https://user-images.githubusercontent.com/55964635/221444185-e9bc7370-b88e-4ec5-a032-e0cdc8ee06f9.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -298,12 +305,13 @@
 </html>
 ```
 
+</details>
+
 ### Ejercicio 8
 
 ![image](https://user-images.githubusercontent.com/55964635/221444621-cffe4062-cd62-4c31-93a4-5b972558eb50.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -332,12 +340,13 @@
 </html>
 ```
 
+</details>
+
 ### Ejercicio 9
 
 ![image](https://user-images.githubusercontent.com/55964635/221447056-9482484e-38a9-455c-9481-5af611f70318.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -399,12 +408,13 @@
 </html>
 ```
 
+</details>
+
 ### Ejercicio 10
 
 ![image](https://user-images.githubusercontent.com/55964635/221479719-2d865de3-f398-4a24-b606-fd5726c7cb49.png)
 
 <details><summary>Codigo HTML</summary>
-</details>
 
 ```html
 <!DOCTYPE html>
@@ -543,3 +553,60 @@
 </body>
 </html>
 ```
+
+</details>
+
+### Ejercicio 11
+
+![image](https://user-images.githubusercontent.com/55964635/221485774-b1749aca-5952-4914-92a0-cf9fcba0b271.png)
+
+<details><summary>Codigo HTML</summary>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tabla compleja</title>
+  <style>
+    table, tr, th, td {
+      border: 1px solid black;
+    }
+  </style>
+</head>
+  <body>
+    <table>
+      <tr>
+        <td><strong>Categoría</strong></td>
+        <td><strong>Etiquetas</strong></td>
+      </tr>
+
+      <tr>
+        <th rowspan="5"><strong>Formulario</strong></th>
+        <td>form</td>
+        <tr><td>button</td></tr>
+        <tr><td>input</td></tr>
+        <tr><td>select</td></tr>
+        <tr><td>textarea</td></tr>
+      </tr>
+      <tr>
+        <th rowspan="5"><strong>Tabla</strong></th>
+        <td>table</td>
+        <tr><td>tr</td></tr>
+        <tr><td>th</td></tr>
+        <tr><td>td</td></tr>
+        <tr><td>caption</td></tr>
+      </tr>
+  
+      <tr>
+        <th rowspan="6"><strong>Texto</strong></th>
+        <td>b</td>
+        <tr><td>em</td></tr>
+        <tr><td>i</td></tr>
+        <tr><td>strong</td></tr>
+        <tr><td>sub</td></tr>
+        <tr><td>sup</td></tr>
+      </tr>
+  </table>
+</body>
+</html>
+
+</details>
