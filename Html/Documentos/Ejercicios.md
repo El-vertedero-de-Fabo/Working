@@ -305,3 +305,67 @@
 </body>
 </html>
 ```
+
+### Ejercicio 9
+
+![image](https://user-images.githubusercontent.com/55964635/221447056-9482484e-38a9-455c-9481-5af611f70318.png)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario de registro - Mi web</title>
+</head>
+<body>
+  <h1>Formulario de Registro</h1>
+  <form action="" method="get">
+    <p>
+      <label for="nombre">Nombre:</label>  
+      <input type="text" maxlength="50" name="nombre" id="nombre"> 
+    </p>
+
+    <p>
+      <label for="apellidos">Apellidos:</label> 
+      <input type="text" maxlength="50" name="apellidos" id="apellidos">
+    </p>
+
+    <p>Sexo:
+      <label for="hombre"><input type="radio" value="Hombre" name="hombre-mujer" id="hombre"> Hombre </label>
+      <label for="mujer"><input type="radio" value="Mujer" name="hombre-mujer" id="mujer"> Mujer</label>
+    </p>
+
+    <p><label for="correo">Correo:</label> <input type="email" maxlength="50" name="correo" id="correo"></p>
+
+    <p>
+      <label for="poblacion">Población</label>  
+      <select name="poblacion" id="poblacion"> 
+        <option>Alicante</option>
+        <option>Madrid</option>
+        <option>Sevilla</option>
+        <option>Valencia</option>
+      </select>
+    </p>
+
+    <p>
+      <label for="descripcion">Descripcion:</label>  
+      <textarea name="descripcion" id="descripcion" cols="60" rows="6"></textarea>
+    </p>
+
+    <p>
+      <input type="checkbox" name="info" checked="checked" id="info">
+      <label for="info">Deseo recibir informacion sobre novedades y ofertas</label> 
+    </p>
+
+    <p>
+      <input type="checkbox" name="condiciones" id="condiciones">
+      <label for="condiciones">Declaro haber leido y aceptar las condiciones generadas del programa y la normativa sobre proteccion de datos</label> 
+    </p>
+
+    <p><input type="submit"  value="Enviar"></p>
+  </form>
+</body>
+</html>
+```

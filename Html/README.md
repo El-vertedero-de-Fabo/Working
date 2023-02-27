@@ -115,6 +115,8 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - `<br>` (Break) Romper. Las imagenes y las listas se presentan en lineas separadas, pero no es el caso para todos los elementos, si queremos hacer un salto de linea tenemos que usar esta etiqueta
 - **`<textarea>`** Es como el input pero nos permite modificar el tamaño a mano 
   - **[readonly=""]()** Solo en modo de lectura (no podemos escribir dentro)
+- **`<select>`** Nos permite tener una lista de selección
+  - **`<option>`** Elementos de la lista, no hace falta poner id, ni otros atributos
 
 ## **🎵`Multimedia`**
 - **`<img>`**  
