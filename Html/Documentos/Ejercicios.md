@@ -1,5 +1,6 @@
 # Ejercicios
 
+<center>
 
 ### Indice
 - [Ejercicio 1](#ejercicio-1)
@@ -12,6 +13,8 @@
 - [Ejercicio 8](#ejercicio-8)
 - [Ejercicio 9](#ejercicio-9)
 - [Ejercicio 10](#ejercicio-10)
+
+</center>
 
 ## Ejercicio 1
 
