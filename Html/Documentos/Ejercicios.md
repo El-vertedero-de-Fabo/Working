@@ -13,9 +13,16 @@
 - [Ejercicio 10](#ejercicio-10)
 - [Ejercicio 11](#ejercicio-11)
 
+
+
+
 ## Ejercicio 1
 
 ![image](https://user-images.githubusercontent.com/55964635/221426209-738c6b8c-973b-4aec-881b-0bf22b6d540b.png)
+
+<div align="center">
+  <img src="../Imagenes/1.png"/>
+</div>
 
 <details><summary>Codigo HTML</summary>
 
