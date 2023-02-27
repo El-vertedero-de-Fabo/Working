@@ -300,7 +300,7 @@
     <p>Correo: <input type="email" maxlength="50" name="correo"></p>
     <p><input type="checkbox" name="info" checked="checked"> Deseo recibir informacion sobre novedades y ofertas</p>
     <p><input type="checkbox" name="condiciones"> Declaro haber leido y aceptar las condiciones generadas del programa y la normativa sobre proteccion de datos</p>
-    <p><input type="submit"  value="Enviar"></p>
+    <p><input type="submit" value="Enviar"></p>
   </form>
 </body>
 </html>
