@@ -1,4 +1,12 @@
-# Ejercicios
+<div align="center">
+
+# 🏋️‍♂️ Ejercicios
+
+<img src='https://media.giphy.com/media/ttknk7M3d3UBEeZsii/giphy.gif'>
+
+</div>
+
+---
 
 ### Indice
 - [Ejercicio 1](#ejercicio-1)
@@ -12,6 +20,8 @@
 - [Ejercicio 9](#ejercicio-9)
 - [Ejercicio 10](#ejercicio-10)
 - [Ejercicio 11](#ejercicio-11)
+
+---
 
 <div align="center">
 
