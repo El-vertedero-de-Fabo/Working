@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/55964635/221426209-738c6b8c-973b-4aec-881b-0bf22b6d540b.png)
 
 <details><summary>Codigo HTML</summary>
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -45,6 +46,7 @@
 </body>
 </html>
 ```
+
 </details>
 
 
