@@ -13,14 +13,10 @@
 - [Ejercicio 10](#ejercicio-10)
 - [Ejercicio 11](#ejercicio-11)
 
-
-
-
-## Ejercicio 1
-
-![image](https://user-images.githubusercontent.com/55964635/221426209-738c6b8c-973b-4aec-881b-0bf22b6d540b.png)
-
 <div align="center">
+
+  ## Ejercicio 1
+
   <img src="../Imagenes/1.png"/>
 </div>
 
@@ -56,11 +52,13 @@
 
 </details>
 
+<div align="center">
 
+  ## Ejercicio 2
 
-## Ejercicio 2
+  <img src="../Imagenes/2.png"/>
+</div>
 
-![image](https://user-images.githubusercontent.com/55964635/221426251-61d358a4-210e-437d-b52a-09d3f931afdd.png)
 
 <details><summary>Codigo HTML</summary>
 
