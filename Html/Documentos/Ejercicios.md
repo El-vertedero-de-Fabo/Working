@@ -179,9 +179,14 @@
 
 </details>
 
-## Ejercicio 5
 
-![image](https://user-images.githubusercontent.com/55964635/221426501-760c6254-86a6-4f1d-b7ea-f62b28039cda.png)
+<div align="center">
+
+  ## Ejercicio 5
+
+  <img src="../Imagenes/5.png"/>
+</div>
+
 
 <details><summary>Codigo HTML</summary>
 
@@ -225,9 +230,13 @@
 </details>
 
 
-## Ejercicio 6
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/55964635/221426599-492ab14e-f10d-4b9b-84d9-aad6e34c122a.png)
+  ## Ejercicio 6
+
+  <img src="../Imagenes/6.png"/>
+</div>
+
 
 <details><summary>Codigo HTML</summary>
 
