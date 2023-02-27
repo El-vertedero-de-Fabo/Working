@@ -280,10 +280,13 @@
 
 </details>
 
+<div align="center">
 
-### Ejercicio 7
+  ## Ejercicio 7
 
-![image](https://user-images.githubusercontent.com/55964635/221444185-e9bc7370-b88e-4ec5-a032-e0cdc8ee06f9.png)
+  <img src="../Imagenes/9.png"/>
+</div>
+
 
 <details><summary>Codigo HTML</summary>
 
@@ -337,9 +340,13 @@
 
 </details>
 
-### Ejercicio 8
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/55964635/221444621-cffe4062-cd62-4c31-93a4-5b972558eb50.png)
+  ## Ejercicio 8
+
+  <img src="../Imagenes/7.png"/>
+</div>
+
 
 <details><summary>Codigo HTML</summary>
 
@@ -372,9 +379,13 @@
 
 </details>
 
-### Ejercicio 9
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/55964635/221447056-9482484e-38a9-455c-9481-5af611f70318.png)
+  ## Ejercicio 9
+
+  <img src="../Imagenes/8.png"/>
+</div>
+
 
 <details><summary>Codigo HTML</summary>
 
@@ -440,9 +451,12 @@
 
 </details>
 
-### Ejercicio 10
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/55964635/221479719-2d865de3-f398-4a24-b606-fd5726c7cb49.png)
+  ## Ejercicio 10
+
+  <img src="../Imagenes/10.png"/>
+</div>
 
 <details><summary>Codigo HTML</summary>
 
@@ -586,9 +600,12 @@
 
 </details>
 
-### Ejercicio 11
+<div align="center">
 
-![image](https://user-images.githubusercontent.com/55964635/221485774-b1749aca-5952-4914-92a0-cf9fcba0b271.png)
+  ## Ejercicio 11
+
+  <img src="../Imagenes/11.png"/>
+</div>
 
 <details><summary>Codigo HTML</summary>
 
