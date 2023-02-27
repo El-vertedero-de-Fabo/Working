@@ -17,6 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/55964635/221426209-738c6b8c-973b-4aec-881b-0bf22b6d540b.png)
 
+<details><summary>Codigo HTML</summary>
 ```html
 <!DOCTYPE html>
 <html>
@@ -44,10 +45,16 @@
 </body>
 </html>
 ```
+</details>
+
+
 
 ## Ejercicio 2
 
 ![image](https://user-images.githubusercontent.com/55964635/221426251-61d358a4-210e-437d-b52a-09d3f931afdd.png)
+
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
@@ -84,6 +91,8 @@
 
 ![image](https://user-images.githubusercontent.com/55964635/221426452-dcc43d96-3ad8-48c3-8453-b08507854d53.png)
 
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
@@ -111,6 +120,8 @@
 
 ![image](https://user-images.githubusercontent.com/55964635/221426481-35608e51-69e3-4996-b503-315c8a01558b.png)
 
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
@@ -144,6 +155,9 @@
 ## Ejercicio 5
 
 ![image](https://user-images.githubusercontent.com/55964635/221426501-760c6254-86a6-4f1d-b7ea-f62b28039cda.png)
+
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
@@ -186,6 +200,9 @@
 
 ![image](https://user-images.githubusercontent.com/55964635/221426599-492ab14e-f10d-4b9b-84d9-aad6e34c122a.png)
 
+<details><summary>Codigo HTML</summary>
+</details>
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -227,6 +244,9 @@
 ### Ejercicio 7
 
 ![image](https://user-images.githubusercontent.com/55964635/221444185-e9bc7370-b88e-4ec5-a032-e0cdc8ee06f9.png)
+
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
@@ -280,6 +300,9 @@
 
 ![image](https://user-images.githubusercontent.com/55964635/221444621-cffe4062-cd62-4c31-93a4-5b972558eb50.png)
 
+<details><summary>Codigo HTML</summary>
+</details>
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -310,6 +333,9 @@
 ### Ejercicio 9
 
 ![image](https://user-images.githubusercontent.com/55964635/221447056-9482484e-38a9-455c-9481-5af611f70318.png)
+
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
@@ -374,6 +400,9 @@
 ### Ejercicio 10
 
 ![image](https://user-images.githubusercontent.com/55964635/221479719-2d865de3-f398-4a24-b606-fd5726c7cb49.png)
+
+<details><summary>Codigo HTML</summary>
+</details>
 
 ```html
 <!DOCTYPE html>
