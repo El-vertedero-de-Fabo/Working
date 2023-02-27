@@ -77,6 +77,8 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - **`<table>`** Genero una tabla
   - **`<tr>`** definimos las filas, contiene **`<td>`**
   - **`<td>`** Ponemos los nombres de las columnas
+    - **[rowspan="5"]()** Definimos las celdas extras para una misma fila
+  - **`<th>`** Se usan para los encabezados de las tablasa (centra la palabra)
 - **`<center>`** centra :0
 - **`<dl>`** (descriptive list) Representa una lista descriptiva 
   - **`<dt>`** (term in a description) Seria el titulo/elemento
