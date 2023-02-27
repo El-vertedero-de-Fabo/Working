@@ -12,7 +12,7 @@
 ---
 
 # 👉 `Indice`
-- [Ejercicios](/Html/Documentos/Ejercicios.md)
+- [🏋️‍♂️ Ejercicios](/Html/Documentos/Ejercicios.md)
 - [🏠 \<html>](#html)
 - [👽 \<head>](#head)
 - [👔 \<body>](#body)
