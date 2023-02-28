@@ -149,7 +149,9 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - [**Browser**](https://definicion.de/browser/)
 - [**Documentación**](https://developer.mozilla.org/es/docs/Web/HTML/Element/div)
 - [**Curso de utilidad**](https://www.youtube.com/watch?v=XqFR2lqBYPs)
-- [**desarrolloweb Ejercicios**](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
+- [**Ejercicios desarrolloweb**](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
+- [**Ejercicios francescricart**](https://francescricart.com/tutorial-html/ejercicios-html/)
+
 
 ## 🐰Easter eggs
 
