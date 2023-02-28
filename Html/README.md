@@ -13,7 +13,7 @@
 
 # 👉 `Indice`
 - [🏋️‍♂️ Ejercicios de desarrolloweb](/Html/Documentos/Ejercicios.md)
-- [🦾 Ejercicio de francescricart]()
+- [🦾 Ejercicio de francescricart](/Html/Documentos/Ejercicios2.md)
 - [🏠 \<html>](#html)
 - [👽 \<head>](#head)
 - [👔 \<body>](#body)
