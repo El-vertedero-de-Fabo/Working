@@ -12,7 +12,8 @@
 ---
 
 # 👉 `Indice`
-- [🏋️‍♂️ Ejercicios](/Html/Documentos/Ejercicios.md)
+- [🏋️‍♂️ Ejercicios de desarrolloweb](/Html/Documentos/Ejercicios.md)
+- [Ejercicio de francescricart]()
 - [🏠 \<html>](#html)
 - [👽 \<head>](#head)
 - [👔 \<body>](#body)
@@ -148,6 +149,7 @@ Todo lo [azul](#) son los atributos, para que queden mas legibles
 - [**Browser**](https://definicion.de/browser/)
 - [**Documentación**](https://developer.mozilla.org/es/docs/Web/HTML/Element/div)
 - [**Curso de utilidad**](https://www.youtube.com/watch?v=XqFR2lqBYPs)
+- [**desarrolloweb Ejercicios**](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
 
 ## 🐰Easter eggs
 

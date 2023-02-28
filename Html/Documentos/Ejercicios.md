@@ -20,6 +20,7 @@
 - [Ejercicio 9](#ejercicio-9)
 - [Ejercicio 10](#ejercicio-10)
 - [Ejercicio 11](#ejercicio-11)
+- [Ejercicio 12](#ejercicio-12)
 
 ---
 
@@ -667,8 +668,6 @@
 </div>
 
 <details><summary>Codigo HTML</summary>
-
-## Ejercicio 12
 
 ```html
 <!DOCTYPE html>
