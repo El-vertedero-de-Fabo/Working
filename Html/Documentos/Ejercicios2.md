@@ -27,14 +27,21 @@
 
 ## 🔠`Texto`
 
-- [Estructura de un documento web. Corrige los errores.]()
-- [Documento web con etiquetas de texto básicas.]()
-- [Practicando con etiquetas de texto menos comunes pero igualmente útiles e importantes.]()
-- [Practicando con el uso adecuado de las etiquetas de encabezado.]()
-- [Códigos HTML y Nombres HTML]()
-- [Ejemplo de cuando no hay más remedio que usar caracteres escapados.]()
-- [Espacios en blanco y encabezados]()
+- [Estructura de un documento web. Corrige los errores.](#estructura-de-un-documento-web-corrige-los-errores)
+- [Documento web con etiquetas de texto básicas.](#documento-web-con-etiquetas-de-texto-básicas)
+- [Practicando con etiquetas de texto menos comunes pero igualmente útiles e importantes.](#practicando-con-etiquetas-de-texto-menos-comunes-pero-igualmente-útiles-e-importantes)
+- [Practicando con el uso adecuado de las etiquetas de encabezado.](#practicando-con-el-uso-adecuado-de-las-etiquetas-de-encabezado)
+- [Códigos HTML y Nombres HTML](#códigos-html-y-nombres-html)
+- [Ejemplo de cuando no hay más remedio que usar caracteres escapados.](#ejemplo-de-cuando-no-hay-más-remedio-que-usar-caracteres-escapados)
+- [Espacios en blanco y encabezados](#espacios-en-blanco-y-encabezados)
 
+### Estructura de un documento web. Corrige los errores.
+### Documento web con etiquetas de texto básicas.
+### Practicando con etiquetas de texto menos comunes pero igualmente útiles e importantes.
+### Practicando con el uso adecuado de las etiquetas de encabezado.
+### Códigos HTML y Nombres HTML
+### Ejemplo de cuando no hay más remedio que usar caracteres escapados.
+### Espacios en blanco y encabezados
 ---
 
 ## 📃`Listas`
