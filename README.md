@@ -6,9 +6,7 @@
  </div>
 
 <h1 align="center"> 🖥️Working  </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"/>
- </div>
+
 
 ### 💻 Introducción
 
@@ -21,3 +19,6 @@ Este readme contiene todos los temas que estoy aprendiendo, me di cuenta que apr
 - [🎮 JavaScript](/JavaScript/)
 - [🌍 Ingles](/Readmes/Ingles.md)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif"/>
+ </div>
