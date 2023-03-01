@@ -10,16 +10,16 @@
 
 # 👉 Indice
 
-- [Ejercicio sobre texto html](#ejercicio-sobre-texto)
-- [Ejercicios sobre listas](#ejercicios-sobre-listas)
-- [Ejercicio sobre listas correctamente anidadas](#ejercicio-sobre-listas-correctamente-anidadas)
-- [Ejercicios sobre imágenes](#ejercicios-sobre-imágenes)
-- [Ejercicios sobre tablas](#ejercicios-sobre-tablas)
-- [Ejercicio sobre otras etiquetas](#ejercicio-sobre-otras-etiquetas)
-- [Capas Web](#capas-web)
-- [Formularios](#formularios)
-- [Ejercicios para repasar](#ejercicios-para-repasar)
-- [Exámenes HTML](#exámenes-html)
+- [🔠 Ejercicio sobre texto html](#ejercicio-sobre-texto)
+- [📃 Ejercicios sobre listas](#ejercicios-sobre-listas)
+- [📜 Ejercicio sobre listas correctamente anidadas](#ejercicio-sobre-listas-correctamente-anidadas)
+- [🖼 Ejercicios sobre imágenes](#ejercicios-sobre-imágenes)
+- [📏 Ejercicios sobre tablas](#ejercicios-sobre-tablas)
+- [🧷Ejercicio sobre otras etiquetas](#ejercicio-sobre-otras-etiquetas)
+- [🛡 Capas Web](#capas-web)
+- [📋 Formularios](#formularios)
+- [🖊 Ejercicios para repasar](#ejercicios-para-repasar)
+- [📝 Exámenes HTML](#exámenes-html)
 
 ---
 
