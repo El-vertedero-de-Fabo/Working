@@ -46,62 +46,89 @@
 
 ## 📃`Listas`
 
-- [Ejemplo de listas de definiciones.]()
-- [Practicando con listas ordenadas y listas no ordenadas.]()
-- [Practicando con listas anidadas (avanzado).]()
-- [Listas correctamente anidadas.]()
+- [Ejemplo de listas de definiciones.](#ejemplo-de-listas-de-definiciones)
+- [Practicando con listas ordenadas y listas no ordenadas.](#practicando-con-listas-ordenadas-y-listas-no-ordenadas)
+- [Practicando con listas anidadas (avanzado).](#practicando-con-listas-anidadas-avanzado)
+- [Listas correctamente anidadas.](#listas-correctamente-anidadas)
 
+### Ejemplo de listas de definiciones.
+### Practicando con listas ordenadas y listas no ordenadas.
+### Practicando con listas anidadas (avanzado).
+### Listas correctamente anidadas.
 ---
 
 ## 📜`Listas correctamente anidadas`
 
-- [Ejemplo de listas de definiciones.]()
-- [Practicando con listas ordenadas y listas no ordenadas.]()
-- [Practicando con listas anidadas (avanzado).]()
-- [Listas correctamente anidadas.]()
+- [Ejemplo de listas de definiciones.](#ejemplo-de-listas-de-definiciones-1)
+- [Practicando con listas ordenadas y listas no ordenadas.](#practicando-con-listas-ordenadas-y-listas-no-ordenadas-1)
+- [Practicando con listas anidadas (avanzado).](#practicando-con-listas-anidadas-avanzado-1)
+- [Listas correctamente anidadas.](#listas-correctamente-anidadas-1)
 
+### Ejemplo de listas de definiciones.
+### Practicando con listas ordenadas y listas no ordenadas.
+### Practicando con listas anidadas (avanzado).
+### Listas correctamente anidadas.
 ---
 
 ## 🖼`Imágenes`
 
-- [Mapas de imágenes]()
-- [Mapas de imágenes (más difícultad)]()
+- [Mapas de imágenes](#mapas-de-imágenes)
+- [Mapas de imágenes (más difícultad)](#mapas-de-imágenes-más-difícultad)
 
+### Mapas de imágenes
+### Mapas de imágenes (más difícultad)
 ---
 
 ## 📏`Tablas`
 
-- [Creación de tablas.]()
-- [Ejercicio fácil creación de tablas]()
+- [Creación de tablas.](#creación-de-tablas)
+- [Ejercicio fácil creación de tablas](#ejercicio-fácil-creación-de-tablas)
+
+### Creación de tablas.
+### Ejercicio fácil creación de tablas
 
 ---
 
 ## 🧷`Otras etiquetas`
-- [Jugando con las etiquetas audio y vídeo.]()
+- [Jugando con las etiquetas audio y vídeo.](#jugando-con-las-etiquetas-audio-y-vídeo)
+
+### Jugando con las etiquetas audio y vídeo.
 
 ---
 
 ### 🛡`Capas Web`
-- [Iniciación a las capas mediante div e id]()
-- [Estructuración de un documento web con div e id]()
-- [Traducción del ejercicio 22 de xhtml a html5]()
-- [Traducción del ejercicio 23 de xhtml a html5]()
+- [Iniciación a las capas mediante div e id](#iniciación-a-las-capas-mediante-div-e-id)
+- [Estructuración de un documento web con div e id](#estructuración-de-un-documento-web-con-div-e-id)
+- [Traducción del ejercicio 22 de xhtml a html5](#traducción-del-ejercicio-22-de-xhtml-a-html5)
+- [Traducción del ejercicio 23 de xhtml a html5](#traducción-del-ejercicio-23-de-xhtml-a-html5)
 
+### Iniciación a las capas mediante div e id
+### Estructuración de un documento web con div e id
+### Traducción del ejercicio 22 de xhtml a html5
+### Traducción del ejercicio 23 de xhtml a html5
 ---
 
 ## 📋`Formularios`
-- [Creación de formularios siguiendo especificaciones.]()
+- [Creación de formularios siguiendo especificaciones.](#creación-de-formularios-siguiendo-especificaciones)
+
+### Creación de formularios siguiendo especificaciones.
 
 ---
 
 ## 🖊`Repaso`
-- [Corrige los errores]()
-- [Corrige los errores2]()
+- [Corrige los errores](#corrige-los-errores)
+- [Corrige los errores2](#corrige-los-errores2)
+
+### Corrige los errores
+### Corrige los errores2
+
 
 ---
 
 ## 📝`Examen`
-- [Examen test html con soluciones]()
-- [20 preguntas test html extra]()
+- [Examen test html con soluciones](#examen-test-html-con-soluciones)
+- [20 preguntas test html extra](#20-preguntas-test-html-extra)
 
+### Examen test html con soluciones
+### 20 preguntas test html extra
 ---
