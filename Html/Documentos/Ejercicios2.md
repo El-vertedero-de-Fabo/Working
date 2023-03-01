@@ -10,7 +10,8 @@
 
 # 👉 Indice
 
-- [🌐 Web para hacer los ejercicios](https://www.programiz.com/html/online-compiler/)
+- [🌐 **Web para hacer los ejercicios**](https://www.programiz.com/html/online-compiler/)
+- [🌐 **Web de los ejercicios**](https://francescricart.com/tutorial-html/ejercicios-html/)
 - [🔠 Ejercicio sobre texto html](#ejercicio-sobre-texto)
 - [📃 Ejercicios sobre listas](#ejercicios-sobre-listas)
 - [📜 Ejercicio sobre listas correctamente anidadas](#ejercicio-sobre-listas-correctamente-anidadas)
