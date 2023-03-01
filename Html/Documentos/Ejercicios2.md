@@ -12,88 +12,88 @@
 
 - [🌐 **Web para hacer los ejercicios**](https://www.programiz.com/html/online-compiler/)
 - [🌐 **Web de los ejercicios**](https://francescricart.com/tutorial-html/ejercicios-html/)
-- [🔠 Ejercicio sobre texto html](#ejercicio-sobre-texto)
-- [📃 Ejercicios sobre listas](#ejercicios-sobre-listas)
-- [📜 Ejercicio sobre listas correctamente anidadas](#ejercicio-sobre-listas-correctamente-anidadas)
-- [🖼 Ejercicios sobre imágenes](#ejercicios-sobre-imágenes)
-- [📏 Ejercicios sobre tablas](#ejercicios-sobre-tablas)
-- [🧷Ejercicio sobre otras etiquetas](#ejercicio-sobre-otras-etiquetas)
+- [🔠 Texto](#texto)
+- [📃 Listas](#listas)
+- [📜 Listas correctamente anidadas](#listas-correctamente-anidadas)
+- [🖼 Imágenes](#imágenes)
+- [📏 Tablas](#tablas)
+- [🧷 Otras etiquetas](#otras-etiquetas)
 - [🛡 Capas Web](#capas-web)
 - [📋 Formularios](#formularios)
-- [🖊 Ejercicios para repasar](#ejercicios-para-repasar)
-- [📝 Exámenes HTML](#exámenes-html)
+- [🖊 Repaso](#repaso)
+- [📝 Examen](#examen)
 
 ---
 
-### `Ejercicio sobre texto`
+## 🔠`Texto`
 
-- [Ejercicio. Estructura de un documento web. Corrige los errores.]()
-- [Ejercicio. Documento web con etiquetas de texto básicas.]()
-- [Ejercicio. Practicando con etiquetas de texto menos comunes pero igualmente útiles e importantes.]()
-- [Ejercicio. Practicando con el uso adecuado de las etiquetas de encabezado.]()
-- [Ejercicio. Códigos HTML y Nombres HTML]()
-- [Ejercicio. Ejemplo de cuando no hay más remedio que usar caracteres escapados.]()
-- [Ejercicio. Espacios en blanco y encabezados]()
-
----
-
-### `Ejercicios sobre listas`
-
-- [Ejercicio. Ejemplo de listas de definiciones.]()
-- [Ejercicio . Practicando con listas ordenadas y listas no ordenadas.]()
-- [Ejercicio. Practicando con listas anidadas (avanzado).]()
-- [Ejercicio. Listas correctamente anidadas.]()
+- [Estructura de un documento web. Corrige los errores.]()
+- [Documento web con etiquetas de texto básicas.]()
+- [Practicando con etiquetas de texto menos comunes pero igualmente útiles e importantes.]()
+- [Practicando con el uso adecuado de las etiquetas de encabezado.]()
+- [Códigos HTML y Nombres HTML]()
+- [Ejemplo de cuando no hay más remedio que usar caracteres escapados.]()
+- [Espacios en blanco y encabezados]()
 
 ---
 
-### `Ejercicio sobre listas correctamente anidadas`
+## 📃`Listas`
 
-- [Ejercicio. Ejemplo de listas de definiciones.]()
-- [Ejercicio . Practicando con listas ordenadas y listas no ordenadas.]()
-- [Ejercicio. Practicando con listas anidadas (avanzado).]()
-- [Ejercicio. Listas correctamente anidadas.]()
-
----
-
-### `Ejercicios sobre imágenes`
-
-- [Ejercicio. Mapas de imágenes]()
-- [Ejercicio. Mapas de imágenes (más difícultad)]()
+- [Ejemplo de listas de definiciones.]()
+- [Practicando con listas ordenadas y listas no ordenadas.]()
+- [Practicando con listas anidadas (avanzado).]()
+- [Listas correctamente anidadas.]()
 
 ---
 
-### `Ejercicios sobre tablas`
+## 📜`Listas correctamente anidadas`
 
-- [Ejercicio. Creación de tablas.]()
-- [Ejercicio. Ejercicio fácil creación de tablas]()
-
----
-
-### `Ejercicio sobre otras etiquetas`
-- [Ejercicio. Jugando con las etiquetas audio y vídeo.]()
+- [Ejemplo de listas de definiciones.]()
+- [Practicando con listas ordenadas y listas no ordenadas.]()
+- [Practicando con listas anidadas (avanzado).]()
+- [Listas correctamente anidadas.]()
 
 ---
 
-### `Capas Web`
-- [Ejercicio. Iniciación a las capas mediante div e id]()
-- [Ejercicio. Estructuración de un documento web con div e id]()
-- [Ejercicio. Traducción del ejercicio 22 de xhtml a html5]()
-- [Ejercicio. Traducción del ejercicio 23 de xhtml a html5]()
+## 🖼`Imágenes`
+
+- [Mapas de imágenes]()
+- [Mapas de imágenes (más difícultad)]()
 
 ---
 
-### `Formularios`
-- [Ejercicio. Creación de formularios siguiendo especificaciones.]()
+## 📏`Tablas`
+
+- [Creación de tablas.]()
+- [Ejercicio fácil creación de tablas]()
 
 ---
 
-### `Ejercicios para repasar`
-- [Ejercicio. Repaso. Corrige los errores.]()
-- [Ejercicio. Repaso. Corrige los errores.]()
+## 🧷`Otras etiquetas`
+- [Jugando con las etiquetas audio y vídeo.]()
 
 ---
 
-### `Exámenes HTML`
+### 🛡`Capas Web`
+- [Iniciación a las capas mediante div e id]()
+- [Estructuración de un documento web con div e id]()
+- [Traducción del ejercicio 22 de xhtml a html5]()
+- [Traducción del ejercicio 23 de xhtml a html5]()
+
+---
+
+## 📋`Formularios`
+- [Creación de formularios siguiendo especificaciones.]()
+
+---
+
+## 🖊`Repaso`
+- [Corrige los errores]()
+- [Corrige los errores2]()
+
+---
+
+## 📝`Examen`
 - [Examen test html con soluciones]()
 - [20 preguntas test html extra]()
 
