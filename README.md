@@ -19,6 +19,8 @@
 - [📌 Html](/Html/)
 - [🖌️ Css](/Readmes/Css.md)
 - [🎮 JavaScript](/JavaScript/)
+- [☕ Preguntas Normales](/Java/PreguntasNormales.md)
+- [☕ Preguntas de Java]()
 - [🌍 Ingles](/Readmes/Ingles.md)
 
 ### 💻 Motivos del repo
