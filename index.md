@@ -4,38 +4,50 @@
 
 <img src= 'https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/7eebf649-e558-43e2-ad5f-9977dc5ff3e5' height="10" width="100%">
 
-## 💪🏾 Dia 1
+## 💪🏾 Día 1: Tren Superior (Pecho, Hombros, Tríceps)
+
+#### Calentamiento
+- Con el palo, movimientos hacia la espalda 3x6
+- Agarra un elastico y tironea hacia adelante 3x6
+- Plancha con manos a los hombres 3x6 segundos
+
+#### Entrenamiento
 - Press de banca
-- Press inclinado
+- Press Plano con mancuerna
 - Press militar
 - Vuelos laterales
 - Flexiones
-- Press francés con mancuernas
+- Triceps con mancuerna
+- Triceps con polea
+- Abdominales con la barra
 
 <img src= 'https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/7eebf649-e558-43e2-ad5f-9977dc5ff3e5' height="10" width="100%">
 
-## 💪 Día 2
-- Remo con barra
-- Dominadas
+## 💪 Día 2: Tren Superior (Espalda, Bíceps)
+
+#### Calentamiento
+- Vuelos t
+- Bicho pusll over
+
+#### Entrenamiento
+
+- Dominadas supino
 - Remo con mancuerna
-- Biceps con barra
 - Biceps con mancuernas sentado
+- Remo Menton
+- Martillo Biceps
+- Abdominales con la barra
+
 
 <img src= 'https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/7eebf649-e558-43e2-ad5f-9977dc5ff3e5' height="10" width="100%">
 
-## 🏋🏾‍♂️ Día 3
+## 🏋🏾‍♂️ Día 3: Tren Inferior y Zona Media
+
 - Peso muerto rumano
 - Sentadilla
 - Gemelos
-- Zancadas con mancuernas
-
-<img src= 'https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/7eebf649-e558-43e2-ad5f-9977dc5ff3e5' height="10" width="100%">
-
-## 💪 Día 4 
-- Press de banca
-- Dominadas
-- Vuelos laterales
-- Tríceps francés con mancuernas
-- Biceps con barra
+- Cuadriceps
+- Abdominales con la barra
+- Dominadas apertura
 
 <img src= 'https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/7eebf649-e558-43e2-ad5f-9977dc5ff3e5' height="10" width="100%">
